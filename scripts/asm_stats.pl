@@ -5,11 +5,10 @@ use strict;
 use warnings;
 
 my %stats;
-my $model = 'fungi_odb10';
+my $model = 'eurotiomycetes_odb10';
 
 my $read_map_stat = 'mapping_report';
 my $dir = shift || 'genomes';
-my %cols;
 my @header;
 my %header_seen;
 
@@ -19,7 +18,7 @@ foreach my $file ( readdir(DIR) ) {
     next unless ( $file =~ /(\S+)(\.fasta)?\.stats.txt$/);
     my $stem = $1;
     $stem =~ s/\.sorted//;
-    warn("$file ($dir)\n");
+    #warn("$file ($dir)\n");
     open(my $fh => "$dir/$file") || die "cannot open $dir/$file: $!";
     while(<$fh>) {
 	next if /^\s+$/;
@@ -28,11 +27,10 @@ foreach my $file ( readdir(DIR) ) {
 	if ( /\s*(.+)\s+=\s+(\d+(\.\d+)?)/ ) {
 	    my ($name,$val) = ($1,$2);	    
 	    $name =~ s/\s*$//;
+	    $name =~ s/\s+/_/g;
 	    $stats{$stem}->{$name} = $val;
 
-#	    warn("'$name'"," '", $val,"'\n");
-	    $cols{$name}++;
-	    if( ! exists $header_seen{$name} ) {
+	    if( ! $header_seen{$name} ) {
 		push @header, $name;
 		$header_seen{$name} = 1;
 	    }
@@ -95,8 +93,7 @@ foreach my $file ( readdir(DIR) ) {
     
     $first = 0;
 }
-
-print join("\t", qw(SampleID), map { s/\s+/_/g; } @header), "\n";
-foreach my $sp ( sort keys %stats ) {    
+print join("\t", qw(SampleID), @header), "\n";
+foreach my $sp ( sort keys %stats ) {
     print join("\t", $sp, map { $stats{$sp}->{$_} || 'NA' } @header), "\n";
 }
