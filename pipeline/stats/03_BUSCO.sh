@@ -31,7 +31,7 @@ GENOMEFILE=$(ls $GENOMEFOLDER/*.${EXT} | sed -n ${N}p)
 #LINEAGE=$(realpath $LINEAGE)
 
 echo "GENOMEFILE is $GENOMEFILE"
-NAME=$(basename $GENOMEFILE $EXT)
+NAME=$(basename $GENOMEFILE .$EXT)
 GENOMEFILE=$(realpath $GENOMEFILE)
 if [ -d "$OUTFOLDER/${NAME}" ];  then
     echo "Already have run $NAME in folder busco - do you need to delete it to rerun?"
