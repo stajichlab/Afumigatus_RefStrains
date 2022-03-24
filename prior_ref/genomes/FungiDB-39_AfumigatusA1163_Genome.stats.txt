@@ -1,0 +1,12 @@
+Assembly statistics for: FungiDB-39_AfumigatusA1163_Genome.fasta
+   CONTIG COUNT  =  55
+   TOTAL LENGTH  =  29205420
+            MIN  =  1044
+            MAX  =  4896001
+         MEDIAN  =  3180
+           MEAN  =  531007.64
+            L50  =  4
+            N50  =  3791214
+            L90  =  8
+            N90  =  1844026
+            GC%  =  49.36

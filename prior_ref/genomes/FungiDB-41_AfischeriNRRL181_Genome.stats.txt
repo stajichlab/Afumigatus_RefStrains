@@ -1,0 +1,12 @@
+Assembly statistics for: FungiDB-41_AfischeriNRRL181_Genome.fasta
+   CONTIG COUNT  =  438
+   TOTAL LENGTH  =  31770017
+            MIN  =  1006
+            MAX  =  6287576
+         MEDIAN  =  1390
+           MEAN  =  72534.29
+            L50  =  4
+            N50  =  2929192
+            L90  =  10
+            N90  =  1027979
+            GC%  =  49.54
