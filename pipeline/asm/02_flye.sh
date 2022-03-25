@@ -22,7 +22,7 @@ if [ -z $N ]; then
     fi
 fi
 
-sed -n ${N}p $SAMPLES | while read STRAIN NANOPORE ILLUMINA
+sed -n ${N}p $SAMPLES | while read STRAIN NANOPORE ILLUMINA LOCUS
 do
     flye --genome-size 30m -t $CPUS -o $OUTDIR/$STRAIN -i 5 --nano-raw $INDIR/$NANOPORE
 
