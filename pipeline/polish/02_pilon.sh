@@ -33,7 +33,7 @@ do
 	if [[ ! -f $PILON || $POLISHED -nt $PILON ]]; then
 	    LEFT=$(ls $READDIR/$ILLUMINA | sed -n 1p)
 	    RIGHT=$(ls $READDIR/$ILLUMINA | sed -n 2p)
-	    AAFTF pilon -l $LEFT -r $RIGHT -it 10 -v -i $POLISHED -o $PILON -c $CPU --memory $MEM
+	    AAFTF pilon -l $LEFT -r $RIGHT -it 5 -v -i $POLISHED -o $PILON -c $CPU --memory $MEM
 	fi
     done
 done
