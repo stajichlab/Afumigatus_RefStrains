@@ -29,7 +29,7 @@ LINEAGE=eurotiomycetes_odb10
 OUTFOLDER=BUSCO
 SAMPLEFILE=samples.csv
 SEED_SPECIES=anidulans
-GENOMEFILE=$(ls $GENOMEFOLDER/*.${EXT} | sed -n ${N}p)
+GENOMEFILE=$(ls $GENOMEFOLDER/*.${EXT} | grep -v sorted | grep -v masked | sed -n ${N}p)
 #LINEAGE=$(realpath $LINEAGE)
 
 echo "GENOMEFILE is $GENOMEFILE"

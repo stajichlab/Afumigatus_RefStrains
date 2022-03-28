@@ -2,7 +2,7 @@
 #SBATCH -p short -N 1 -n 4  --mem 64gb --out logs/quickmerge.%a.log -a 1
 
 module load quickmerge
-module load mummer/3.23
+module load mummer/4.0.0
 
 N=${SLURM_ARRAY_TASK_ID}
 if [ -z $N ]; then
@@ -33,6 +33,8 @@ do
    CANU=$(realpath $INDIR/$STRAIN.canu.pilon.fasta)
    FLYE=$(realpath $INDIR/$STRAIN.flye.pilon.fasta)
    pushd $OUTDIR/$STRAIN
-   merge_wrapper.py -l 100 $CANU $FLYE
+   merge_wrapper.py -l 100 --threads $CPU --version4 --ml 2000000 --prefix ${STRAIN}_flye_canu $FLYE $CANU
+   popd
+   merge_wrapper.py -l 100 --threads $CPU --version4 --ml 2000000 --prefix round2 ${STRAIN}_flye_canu.merged_out.fasta $FLYE
    popd
 done

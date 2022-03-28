@@ -13,6 +13,8 @@ while read STRAIN NANOPORE ILLUMINA LOCUS
 do
     rsync -a $INDIR/canu/$STRAIN/$STRAIN.contigs.fasta $OUTDIR/$STRAIN.canu.fasta
     rsync -a $INDIR/flye/$STRAIN/assembly.fasta $OUTDIR/$STRAIN.flye.fasta
+    rsync -a $INDIR/NECAT/$STRAIN/$STRAIN/6-bridge_contigs/polished_contigs.fasta $OUTDIR/$STRAIN.necat.fasta
+
     for type in canu flye
     do
     	rsync -a $INDIR/medaka/$STRAIN/$type.polished.fasta $OUTDIR/$STRAIN.${type}.medaka.fasta
@@ -31,6 +33,10 @@ do
 	    fi
 	done
     done    
+    if [[ ! -f $OUTDIR/$STRAIN.necat.stats.txt || $OUTDIR/$STRAIN.necat.fasta -nt $OUTDIR/$STRAIN.necat.stats.txt ]]; then
+    	AAFTF assess -i $OUTDIR/$STRAIN.necat.fasta -r $OUTDIR/$STRAIN.necat.stats.txt
+    fi
+
 done < $SAMPLES
 
 
