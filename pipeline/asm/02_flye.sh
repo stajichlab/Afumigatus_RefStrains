@@ -1,7 +1,7 @@
 #!/usr/bin/bash -l
-#SBATCH -p short -N 1 -n 64 -C ryzen --mem 128gb --out logs/flye.%a.log -a 1-12
+#SBATCH -p short -N 1 -n 64 -C ryzen --mem 128gb --out logs/flye_scaf.%a.log -a 1-12
 
-module load flye
+module load Flye
 
 IFS=,
 SAMPLES=samples.csv
@@ -24,6 +24,6 @@ fi
 
 sed -n ${N}p $SAMPLES | while read STRAIN NANOPORE ILLUMINA LOCUS
 do
-    flye --genome-size 30m -t $CPUS -o $OUTDIR/$STRAIN -i 5 --nano-raw $INDIR/$NANOPORE
+    flye --genome-size 29m -t $CPUS -o $OUTDIR/$STRAIN -i 5 --nano-hq $INDIR/$NANOPORE --scaffold
 
 done

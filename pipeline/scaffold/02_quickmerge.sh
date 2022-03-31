@@ -33,8 +33,7 @@ do
    CANU=$(realpath $INDIR/$STRAIN.canu.pilon.fasta)
    FLYE=$(realpath $INDIR/$STRAIN.flye.pilon.fasta)
    pushd $OUTDIR/$STRAIN
-   merge_wrapper.py -l 100 --threads $CPU --version4 --ml 2000000 --prefix ${STRAIN}_flye_canu $FLYE $CANU
-   popd
-   merge_wrapper.py -l 100 --threads $CPU --version4 --ml 2000000 --prefix round2 ${STRAIN}_flye_canu.merged_out.fasta $FLYE
+   merge_wrapper.py -l 100 --threads $CPU --version4 -ml 20000 --prefix ${STRAIN}_flye_canu $FLYE $CANU
+   merge_wrapper.py -l 100 --threads $CPU --version4 -ml 20000 --prefix round2 merged_${STRAIN}_flye_canu.fasta $FLYE
    popd
 done

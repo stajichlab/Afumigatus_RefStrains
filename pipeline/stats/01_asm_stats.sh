@@ -36,6 +36,12 @@ do
     if [[ ! -f $OUTDIR/$STRAIN.necat.stats.txt || $OUTDIR/$STRAIN.necat.fasta -nt $OUTDIR/$STRAIN.necat.stats.txt ]]; then
     	AAFTF assess -i $OUTDIR/$STRAIN.necat.fasta -r $OUTDIR/$STRAIN.necat.stats.txt
     fi
+    type=necat
+    polishtype=pilon
+    rsync -a $INDIR/pilon/$STRAIN/$type.$polishtype.fasta $OUTDIR/$STRAIN.$type.$polishtype.fasta
+    if [[ ! -f $OUTDIR/$STRAIN.$type.$polishtype.stats.txt || $OUTDIR/$STRAIN.$type.$polishtype.fasta -nt $OUTDIR/$STRAIN.$type.$polishtype.stats.txt ]]; then
+	    AAFTF assess -i $OUTDIR/$STRAIN.$type.$polishtype.fasta -r $OUTDIR/$STRAIN.$type.$polishtype.stats.txt
+    fi
 
 done < $SAMPLES
 
