@@ -1,3 +1,0 @@
-scaffold_15	reverse	ATGATGTGGCAATTGTGAAGgggttagggttagggttagggttagggttagggttagggttagggttagggttagggttagggttagggttagggttagg
-
-Telomeres found: 1 (0 forward, 1 reverse)

@@ -1,4 +1,0 @@
-scaffold_15	forward	taaccctaaccctaaccctaaccctaaccctaaccctaaccctaaccctaaccctaaccctaaccctaaccctaatcctaatcctaatcctaatcctaat
-scaffold_24	reverse	GGGTTAGAATAGATTAGATAGAGAAttagggttagggttagggttagggttagggttagggttagggttagggttagggttagggttagggttagggtta
-
-Telomeres found: 2 (1 forward, 1 reverse)
