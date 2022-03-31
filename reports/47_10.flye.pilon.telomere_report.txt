@@ -1,0 +1,3 @@
+contig_93_pilon_pilon_pilon_pilon_pilon_pilon_pilon_pilon_pilon_pilon	reverse	ATGATGTGGCAATTGTGAAGGGGTTAGGGTTAGGGTTAGGGTTAGGGTTAGGGTTAGGGTTAGGGTTAGGGTTAGGGTTAGGGTTAGGGTTAGGGTTAGG
+
+Telomeres found: 1 (0 forward, 1 reverse)

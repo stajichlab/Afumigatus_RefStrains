@@ -1,0 +1,3 @@
+scaffold_25	reverse	ataacttcaataacttagataacatgtttagggttagggttagggttagggttagggttagggttagggttagggttagggttagggttagggttagggt
+
+Telomeres found: 1 (0 forward, 1 reverse)
