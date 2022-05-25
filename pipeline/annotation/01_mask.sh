@@ -1,5 +1,5 @@
-#!/bin/bash
-#SBATCH -p batch --time 2-0:00:00 --ntasks 24 --nodes 1 --mem 24G --out logs/annotate_mask.%a.log
+#!/bin/bash -l
+#SBATCH -p short --ntasks 48 --nodes 1 --mem 48G --out logs/annotate_mask.%a.log
 
 module unload miniconda3
 
@@ -10,9 +10,11 @@ fi
 
 INDIR=genomes
 OUTDIR=RepeatMasker_run
-
+SCAFFOLDIR=$INDIR/scaffolded
+AF293=ref_genomes/FungiDB-56_AfumigatusAf293_Genome.fasta
 LIBRARY=$(realpath lib/Afum95_Fungi_repeats.lib)
 SAMPLES=samples.csv
+mkdir -p $SCAFFOLDIR
 N=${SLURM_ARRAY_TASK_ID}
 
 if [ -z $N ]; then
@@ -33,7 +35,8 @@ SPECIES="Aspergillus fumigatus"
 sed -n ${N}p $SAMPLES | while read STRAIN NANOPORE ILLUMINA LOCUS
 do
     name=$BASE
-    for type in flye canu
+    # skip flye
+    for type in canu
     do
 	name=$STRAIN.$type
 	if [ ! -f $INDIR/${name}.pilon.sorted.fasta ]; then
@@ -46,7 +49,12 @@ do
 		exit
 	    fi
 	fi	
-	
+	if [ ! -s $INDIR/${name}.pilon.scaffolded.agp ]; then
+		module load ragtag
+		ragtag.py scaffold -t $CPU -o $SCAFFOLDIR/$name.$type.AF293 $AF293 $INDIR/${name}.pilon.sorted.fasta
+		rsync $SCAFFOLDIR/$name.$type.AF293/ragtag.scaffold.agp $INDIR/${name}.pilon.sorted.ragtag.agp
+		module unload ragtag
+	fi
 	if [ ! -s $INDIR/${name}.pilon.masked.fasta ]; then
 	
 	    mkdir -p $OUTDIR/${name}
