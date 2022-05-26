@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/bash -l
 #SBATCH --nodes 1 --ntasks 8 --mem 16G --out logs/annotate_antismash.%a.log -J antismash
 
 module load antismash
@@ -8,7 +8,7 @@ CPU=1
 if [ ! -z $SLURM_CPUS_ON_NODE ]; then
   CPU=$SLURM_CPUS_ON_NODE
 fi
-OUTDIR=annotate
+OUTDIR=annotation
 SAMPFILE=samples.csv
 N=${SLURM_ARRAY_TASK_ID}
 if [ ! $N ]; then

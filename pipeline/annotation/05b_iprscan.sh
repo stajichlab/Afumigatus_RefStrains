@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -l
 #SBATCH --ntasks 24 --nodes 1 --mem 96G -p intel
 #SBATCH --time 72:00:00 --out logs/annotate_iprscan.%a.log
 module unload miniconda3
@@ -8,7 +8,7 @@ CPU=1
 if [ ! -z $SLURM_CPUS_ON_NODE ]; then
   CPU=$SLURM_CPUS_ON_NODE
 fi
-OUTDIR=annotate
+OUTDIR=annotation
 SAMPFILE=samples.csv
 N=${SLURM_ARRAY_TASK_ID}
 if [ ! $N ]; then
@@ -41,7 +41,7 @@ do
        XML=$OUTDIR/$name/annotate_misc/iprscan.xml
        IPRPATH=$(which interproscan.sh)
        if [ ! -f $XML ]; then
-	   funannotate iprscan -i $OUTDIR/$name -o $XML -m local -c $CPU --iprscan_path $IPRPATH
+	   time funannotate iprscan -i $OUTDIR/$name -o $XML -m local -c $CPU --iprscan_path $IPRPATH
        fi
     done
 done
