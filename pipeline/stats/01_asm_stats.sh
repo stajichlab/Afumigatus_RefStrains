@@ -17,7 +17,7 @@ do
 
     for type in canu flye
     do
-    	rsync -a $INDIR/medaka/$STRAIN/$type.polished.fasta $OUTDIR/$STRAIN.${type}.medaka.fasta
+    	rsync -a $INDIR/medaka/$STRAIN/$type.polished.fasta/consensus.fasta $OUTDIR/$STRAIN.${type}.medaka.fasta
 	rsync -a $INDIR/pilon/$STRAIN/$type.pilon.fasta $OUTDIR/$STRAIN.$type.pilon.fasta 
 	if [[ -s $OUTDIR/$STRAIN.$type.fasta ]]; then
 	    if [[ ! -f $OUTDIR/$STRAIN.$type.stats.txt || $OUTDIR/$STRAIN.$type.fasta -nt $OUTDIR/$STRAIN.$type.stats.txt ]]; then

@@ -20,14 +20,13 @@ IFS=,
 SAMPLES=samples.csv
 INDIR=data
 ASM=genomes
-OUTDIR=$(realpath genomes)
-OUTDIR=mapping_report
+OUTDIR=$(realpath mapping_report)
 
 mkdir -p $OUTDIR
 sed -n ${N}p $SAMPLES | while read STRAIN NANOPORE ILLUMINA LOCUS
 do
     
-    FASTQ=$(realpath $INDIR/Nanopore/$NANOPORE
+    FASTQ=$(realpath $INDIR/Nanopore/$NANOPORE)
     for type in canu flye necat
     do
 	BASE=$STRAIN.$type.pilon
@@ -37,7 +36,7 @@ do
 	    continue    
 	elif [ ! -s $OUTDIR/${BASE}.bbmap_covstats.txt ]; then
 	    pushd $SCRATCH
-	    bbmap.sh -Xmx${MEM}g ref=$SORTED in=$FASTQ covstats=$OUTDIR/${BASE}.nanopore.bbmap_covstats.txt  statsfile=$OUTDIR/${BASE}.nanopore.bbmap_summary.txt
+	    bbmap.sh -Xmx${MEM}g ref=$SORTED in=$FASTQ covstats=$OUTDIR/${BASE}.nanopore.bbmap_covstats.txt  statsfile=$OUTDIR/${BASE}.nanopore.bbmap_summary.txt qin=33 ignorebadquality fastareadlen=8000
 	    popd
 	fi
     done

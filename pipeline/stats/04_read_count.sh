@@ -19,8 +19,7 @@ IFS=,
 SAMPLES=samples.csv
 INDIR=data
 ASM=genomes
-OUTDIR=$(realpath genomes)
-OUTDIR=mapping_report
+OUTDIR=$(realpath mapping_report)
 
 mkdir -p $OUTDIR
 sed -n ${N}p $SAMPLES | while read STRAIN NANOPORE ILLUMINA LOCUS
