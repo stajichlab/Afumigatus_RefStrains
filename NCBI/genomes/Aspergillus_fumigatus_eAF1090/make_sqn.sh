@@ -8,4 +8,4 @@ if [ ! -s $NAME.fsa ]; then
  mv $NAME.fa $NAME.fsa
 fi
 
-table2asn -l paired-ends -V v -M n -c ef -i $NAME.fsa -o $NAME.sqn -Z -euk -t ../../../lib/sbt/Afum.sbt -j "[organism=Aspergillus fumigatus] [strain=eAF1090] [gcode=1]"
+table2asn -usemt two -l paired-ends -V v -M n -c ef -i $NAME.fsa -o $NAME.sqn -Z -euk -t ../../../lib/sbt/Afum.sbt -j "[organism=Aspergillus fumigatus] [strain=eAF1090] [gcode=1]"
