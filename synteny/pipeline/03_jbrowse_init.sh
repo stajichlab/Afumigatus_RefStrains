@@ -52,5 +52,5 @@ done
 popd
 
 jbrowse text-index --out $DIR
-tar cf $OUT.tar $OUT
-pigz $OUT.tar
+tar cf $DIR.tar $(dirname $DIR)
+pigz $DIR.tar

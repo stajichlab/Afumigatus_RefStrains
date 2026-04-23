@@ -11,11 +11,8 @@ if [ -z $CPU ]; then
 	CPU=1
 fi
 
-export AUGUSTUS_CONFIG_PATH=$(realpath lib/augustus/3.3/config)
 export FUNANNOTATE_DB=/bigdata/stajichlab/shared/lib/funannotate_db
 export PASACONF=$HOME/pasa.config.txt
-
-SEED_SPECIES=aspergillus_fumigatus
 
 export AUGUSTUS_CONFIG_PATH=$(realpath lib/augustus/3.3/config)
 SBT=$(realpath lib/sbt/Afum.sbt) # this can be changed
@@ -46,12 +43,14 @@ do
 	for type in canu
 	do
 		 name=$STRAIN.$type
-		 MASKED=$INDIR/${name}.pilon.masked.fasta
+		 POLISH=medaka
+    		 POLISH=pilon
+		 MASKED=$INDIR/${name}.$POLISH.masked.fasta
 		 if [ ! -f $MASKED ]; then
 				 echo "no masked file $MASKED"
 				 exit
 		 fi
-     funannotate update --cpus $CPU -i $OUTDIR/$name --out $OUTDIR/$name \
+     		funannotate update --cpus $CPU -i $OUTDIR/$name.$POLISH --out $OUTDIR/$name.$POLISH \
 		 --sbt $SBT --memory $MEM --pasa_db mysql
 	done
 done

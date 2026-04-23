@@ -1,7 +1,6 @@
 #!/bin/bash -l
-#SBATCH --ntasks 24 --nodes 1 --mem 96G -p intel
+#SBATCH -c 24 -n 1 --nodes 1 --mem 96G 
 #SBATCH --time 72:00:00 --out logs/annotate_iprscan.%a.log
-module unload miniconda3
 module load funannotate
 module load iprscan
 CPU=1
@@ -32,7 +31,8 @@ do
     BASE=$(echo -n "$SPECIES $STRAIN" | perl -p -e 's/\s+/_/g')
     for type in canu
     do
-       name=$STRAIN.$type
+       POLISH=pilon
+       name=$STRAIN.$type.$POLISH
        if [ ! -d $OUTDIR/$name ]; then
 	   echo "No annotation dir for ${name}"
 	   exit

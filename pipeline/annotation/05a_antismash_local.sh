@@ -25,7 +25,7 @@ if [ $N -gt $MAX ]; then
   exit
 fi
 
-INPUTFOLDER=update_results
+INPUTFOLDER=predict_results
 
 IFS=,
 sed -n ${N}p $SAMPFILE | while read STRAIN NANOPORE ILLUMINA LOCUSTAG
@@ -34,8 +34,8 @@ do
     BASE=$(echo -n "$SPECIES $STRAIN" | perl -p -e 's/\s+/_/g')
     for type in canu
     do
-	name=$STRAIN.$type
-	
+	POLISH=pilon
+	name=$STRAIN.$type.$POLISH
 	if [ ! -d $OUTDIR/$name ]; then
 	    echo "No annotation dir for ${name}"
 	    exit

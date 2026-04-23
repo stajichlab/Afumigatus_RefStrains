@@ -8,4 +8,4 @@ version = "0.1.0"
 [tasks]
 
 [dependencies]
-liftover = ">=1.4.0,<2"
+liftoff = ">=1.6.3,<2"

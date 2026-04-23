@@ -15,19 +15,21 @@ OUTDIR=asm/ref_scaffold
 AF293=ref_genomes/FungiDB-56_AfumigatusAf293_Genome.fasta
 A1163=ref_genomes/FungiDB-56_AfumigatusA1163_Genome.fasta
 mkdir -p $OUTDIR
-cat $SAMPLES | while read STRAIN NANOPORE ILLUMINA LOCUS
+cat $SAMPLES | grep ^eAF | while read STRAIN NANOPORE ILLUMINA LOCUS
 do
-	# skip flye for now
-    for type in canu 
+
+    for type in canu flye
     do
-	if [ ! -f $INDIR/$STRAIN.$type.pilon.fasta ]; then
-		echo "Cannot find $INDIR/$STRAIN.$type.pilon.fasta"
+	if [ ! -f $INDIR/$STRAIN.$type.$POLISH.fasta ]; then
+		echo "Cannot find $INDIR/$STRAIN.$type.$POLISH.fasta"
 		exit
 	fi
-	echo "out=>$OUTDIR/$STRAIN.$type.A1163 ref=$A1163 in=$INDIR/$STRAIN.$type.pilon.fasta"
+	echo "out=>$OUTDIR/$STRAIN.$type.A1163 ref=$A1163 in=$INDIR/$STRAIN.$type.$POLISH.fasta"
 
-	#ragtag.py scaffold -t $CPUS -o $OUTDIR/$STRAIN.$type.A1163 $A1163 $INDIR/$STRAIN.$type.pilon.fasta
-	ragtag.py scaffold -t $CPUS -o $OUTDIR/$STRAIN.$type.AF293 $AF293 $INDIR/$STRAIN.$type.pilon.fasta
+	#ragtag.py scaffold -t $CPUS -o $OUTDIR/$STRAIN.$type.$POLISH.A1163 $A1163 $INDIR/$STRAIN.$type.$POLISH.fasta
+	if [ ! -d $OUTDIR/$STRAIN.$type.$POLISH.AF293 ]; then
+		ragtag.py scaffold -t $CPUS -o $OUTDIR/$STRAIN.$type.$POLISH.AF293 $AF293 $INDIR/$STRAIN.$type.$POLISH.fasta
+	fi
     done
 done
 

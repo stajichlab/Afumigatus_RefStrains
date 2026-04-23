@@ -1,11 +1,10 @@
 #!/usr/bin/bash -l
-#SBATCH --nodes=1
-#SBATCH --ntasks=16 --mem 24gb
+#SBATCH  -N 1 -n 1 -c 32
+#SBATCH --mem 96gb
 #SBATCH --output=logs/annotate_function.%a.log
 #SBATCH --time=2-0:00:00
-#SBATCH -p intel -J 06annotfunc
+#SBATCH -J 06annotfunc
 
-module unload miniconda3
 module load funannotate
 module load phobius
 
@@ -42,11 +41,12 @@ IFS=,
 sed -n ${N}p $SAMPFILE | while read STRAIN NANOPORE ILLUMINA LOCUSTAG
 do
   BASE=$(echo -n "$SPECIES $STRAIN" | perl -p -e 's/\s+/_/g')
+  POLISH=pilon
   STRAIN_NOSPACE=$(echo -n "$STRAIN" | perl -p -e 's/\s+/_/g')
   echo "$BASE"
   for type in canu
   do
-     name=$STRAIN.$type
+     name=$STRAIN.$type.$POLISH
 #  TEMPLATE=$(realpath lib/sbt/$STRAIN_NOSPACE.sbt)
 #  if [ ! -f $TEMPLATE ]; then
 #    echo "NO TEMPLATE for $name"

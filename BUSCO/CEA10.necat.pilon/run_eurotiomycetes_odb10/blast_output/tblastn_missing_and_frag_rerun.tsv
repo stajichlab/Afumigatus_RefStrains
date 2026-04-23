@@ -1,0 +1,2344 @@
+# TBLASTN 2.12.0+
+# Query: 118659at147545 118659at147545_0
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+118659at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	50.562	89	30	5	22	106	878028	878264	4.17e-16	65.1
+118659at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	70.000	20	6	0	104	123	878342	878401	4.17e-16	34.7
+# TBLASTN 2.12.0+
+# Query: 118659at147545 118659at147545_1
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+118659at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	40.323	124	50	5	7	114	877917	878264	1.28e-15	66.2
+118659at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	65.000	20	7	0	112	131	878342	878401	1.28e-15	32.3
+# TBLASTN 2.12.0+
+# Query: 118659at147545 118659at147545_2
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+118659at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	31.068	103	51	2	83	174	877983	878264	4.92e-07	44.3
+118659at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	60.000	15	6	0	172	186	878342	878386	4.92e-07	25.8
+# TBLASTN 2.12.0+
+# Query: 118659at147545 118659at147545_3
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+118659at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	60.606	33	13	0	105	137	878181	878279	8.89e-11	52.0
+118659at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	70.588	17	5	0	130	146	878342	878392	8.89e-11	30.4
+# TBLASTN 2.12.0+
+# Query: 118659at147545 118659at147545_4
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+118659at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	38.889	36	22	0	102	137	878181	878288	7.76e-05	41.6
+# TBLASTN 2.12.0+
+# Query: 118659at147545 118659at147545_5
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+118659at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	60.606	33	13	0	97	129	878181	878279	8.63e-11	51.6
+118659at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	76.471	17	4	0	122	138	878342	878392	8.63e-11	30.4
+# TBLASTN 2.12.0+
+# Query: 118659at147545 118659at147545_6
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# 0 hits found
+# TBLASTN 2.12.0+
+# Query: 118659at147545 118659at147545_7
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+118659at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	37.121	132	52	6	7	118	877917	878279	4.74e-15	64.7
+118659at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	55.000	20	9	0	111	130	878342	878401	4.74e-15	32.0
+# TBLASTN 2.12.0+
+# Query: 118659at147545 118659at147545_8
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+118659at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	40.230	87	34	4	28	101	878019	878264	1.90e-11	53.1
+118659at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	60.000	20	8	0	99	118	878342	878401	1.90e-11	30.4
+# TBLASTN 2.12.0+
+# Query: 118659at147545 118659at147545_9
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+118659at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	53.571	28	13	0	133	160	878181	878264	1.81e-04	41.2
+# TBLASTN 2.12.0+
+# Query: 58802at147545 58802at147545_0
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+58802at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	68.182	374	102	5	21	389	4147107	4146022	9.56e-157	488
+# TBLASTN 2.12.0+
+# Query: 58802at147545 58802at147545_1
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+58802at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	68.392	367	109	3	22	387	4147104	4146022	3.67e-163	507
+# TBLASTN 2.12.0+
+# Query: 58802at147545 58802at147545_2
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+58802at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	89.073	302	33	0	24	325	4147119	4146214	0.0	568
+# TBLASTN 2.12.0+
+# Query: 58802at147545 58802at147545_3
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+58802at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	76.702	382	75	3	26	404	4147110	4145998	0.0	597
+# TBLASTN 2.12.0+
+# Query: 58802at147545 58802at147545_4
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+58802at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	83.377	379	55	1	24	402	4147110	4145998	0.0	652
+# TBLASTN 2.12.0+
+# Query: 58802at147545 58802at147545_5
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+58802at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	86.400	375	44	3	23	394	4147110	4145998	0.0	645
+# TBLASTN 2.12.0+
+# Query: 58802at147545 58802at147545_6
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+58802at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	86.364	374	50	1	23	396	4147110	4145992	0.0	675
+# TBLASTN 2.12.0+
+# Query: 58802at147545 58802at147545_7
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+58802at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	78.571	308	62	1	28	335	4147107	4146196	2.38e-162	505
+# TBLASTN 2.12.0+
+# Query: 58802at147545 58802at147545_8
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+58802at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	80.789	380	59	4	23	397	4147110	4145998	0.0	631
+# TBLASTN 2.12.0+
+# Query: 58802at147545 58802at147545_9
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+58802at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	80.940	383	66	3	23	405	4147119	4145992	0.0	635
+# TBLASTN 2.12.0+
+# Query: 113186at147545 113186at147545_0
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+113186at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	64.800	125	5	2	38	123	2525121	2524747	8.74e-46	157
+113186at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	63.415	41	12	2	1	41	2525290	2525177	2.78e-05	42.0
+113186at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	27.966	118	67	2	2	111	3278863	3278540	9.07e-06	43.1
+113186at147545	bctg00000009_pilon_pilon_pilon_pilon_pilon	43.182	44	24	1	30	72	371079	371210	3.05e-04	38.9
+# TBLASTN 2.12.0+
+# Query: 113186at147545 113186at147545_1
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+113186at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	65.600	125	4	2	32	117	2525121	2524747	2.31e-46	158
+113186at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	68.421	38	9	2	1	35	2525290	2525177	2.31e-46	43.1
+113186at147545	bctg00000009_pilon_pilon_pilon_pilon_pilon	43.182	44	24	1	24	66	371079	371210	2.87e-04	38.5
+# TBLASTN 2.12.0+
+# Query: 113186at147545 113186at147545_2
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+113186at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	68.919	74	5	1	37	92	2525121	2524900	1.63e-27	101
+113186at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	50.000	34	17	0	92	125	2524843	2524742	1.63e-27	38.1
+# TBLASTN 2.12.0+
+# Query: 113186at147545 113186at147545_3
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+113186at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	65.600	125	4	2	30	115	2525121	2524747	3.86e-45	155
+113186at147545	bctg00000009_pilon_pilon_pilon_pilon_pilon	45.000	40	21	1	26	64	371091	371210	6.03e-04	37.7
+# TBLASTN 2.12.0+
+# Query: 113186at147545 113186at147545_4
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+113186at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	64.800	125	5	2	33	118	2525121	2524747	9.40e-45	154
+# TBLASTN 2.12.0+
+# Query: 113186at147545 113186at147545_5
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+113186at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	69.231	78	3	1	51	107	2524980	2524747	2.63e-29	109
+# TBLASTN 2.12.0+
+# Query: 113186at147545 113186at147545_6
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+113186at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	65.600	125	4	2	35	120	2525121	2524747	5.25e-46	157
+113186at147545	bctg00000009_pilon_pilon_pilon_pilon_pilon	33.871	62	40	1	9	69	371025	371210	0.001	37.4
+# TBLASTN 2.12.0+
+# Query: 113186at147545 113186at147545_7
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+113186at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	64.800	125	5	2	37	122	2525121	2524747	8.04e-45	154
+113186at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	26.882	93	50	2	26	110	3278788	3278540	8.07e-04	37.7
+# TBLASTN 2.12.0+
+# Query: 113186at147545 113186at147545_8
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+113186at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	46.032	126	32	3	12	101	2525256	2524879	2.26e-26	101
+113186at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	64.286	42	11	1	1	42	2525290	2525177	1.18e-06	45.4
+113186at147545	bctg00000009_pilon_pilon_pilon_pilon_pilon	42.500	40	22	1	35	73	371091	371210	8.69e-04	37.4
+# TBLASTN 2.12.0+
+# Query: 113186at147545 113186at147545_9
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+113186at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	64.000	125	6	2	40	125	2525121	2524747	3.11e-44	153
+# TBLASTN 2.12.0+
+# Query: 112169at147545 112169at147545_0
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+112169at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	48.246	114	16	1	1	71	2369872	2370213	1.22e-32	101
+112169at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	48.485	99	48	2	69	165	2370290	2370583	1.22e-32	55.5
+# TBLASTN 2.12.0+
+# Query: 112169at147545 112169at147545_1
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+112169at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	46.218	119	21	2	1	76	2369872	2370228	4.63e-37	94.0
+112169at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	46.392	97	45	2	69	158	2370290	2370580	4.63e-37	77.0
+# TBLASTN 2.12.0+
+# Query: 112169at147545 112169at147545_2
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+112169at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	38.525	122	31	2	1	78	2369872	2370237	1.75e-08	53.5
+# TBLASTN 2.12.0+
+# Query: 112169at147545 112169at147545_3
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+112169at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	63.793	58	21	0	31	88	2370055	2370228	1.61e-34	83.2
+112169at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	50.000	100	45	3	81	177	2370290	2370583	1.61e-34	79.7
+# TBLASTN 2.12.0+
+# Query: 112169at147545 112169at147545_4
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+112169at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	44.737	114	19	3	1	70	2369872	2370213	1.48e-20	87.8
+# TBLASTN 2.12.0+
+# Query: 112169at147545 112169at147545_5
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+112169at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	70.690	58	17	0	31	88	2370055	2370228	1.21e-34	90.1
+112169at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	51.020	98	46	2	81	176	2370290	2370583	1.21e-34	73.2
+# TBLASTN 2.12.0+
+# Query: 112169at147545 112169at147545_6
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+112169at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	38.525	122	31	2	1	78	2369872	2370237	2.10e-08	53.1
+# TBLASTN 2.12.0+
+# Query: 112169at147545 112169at147545_7
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+112169at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	46.218	119	21	1	1	76	2369872	2370228	8.14e-25	99.4
+112169at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	46.000	100	51	1	66	162	2370281	2370580	1.58e-16	75.5
+# TBLASTN 2.12.0+
+# Query: 112169at147545 112169at147545_8
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# 0 hits found
+# TBLASTN 2.12.0+
+# Query: 112169at147545 112169at147545_9
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+112169at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	42.857	119	21	2	1	72	2369872	2370228	3.30e-17	79.0
+# TBLASTN 2.12.0+
+# Query: 75408at147545 75408at147545_0
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+75408at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	70.625	160	24	2	128	265	1334989	1335465	1.10e-127	238
+75408at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	88.525	61	7	0	266	326	1335542	1335724	1.10e-127	121
+75408at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	87.500	48	6	0	71	118	1334753	1334896	1.10e-127	92.0
+75408at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	86.111	36	5	0	33	68	1334631	1334738	1.10e-127	67.0
+# TBLASTN 2.12.0+
+# Query: 75408at147545 75408at147545_1
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+75408at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	72.327	159	21	2	90	225	1334989	1335465	3.56e-124	234
+75408at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	90.164	61	6	0	226	286	1335542	1335724	3.56e-124	107
+75408at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	84.615	52	8	0	38	89	1334741	1334896	3.56e-124	101
+75408at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	77.778	36	8	0	1	36	1334631	1334738	3.56e-124	62.4
+# TBLASTN 2.12.0+
+# Query: 75408at147545 75408at147545_2
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+75408at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	73.125	160	20	2	91	228	1334989	1335465	2.45e-126	241
+75408at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	88.136	59	7	0	229	287	1335542	1335718	2.45e-126	115
+75408at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	86.538	52	7	0	39	90	1334741	1334896	2.45e-126	97.8
+75408at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	77.143	35	8	0	3	37	1334634	1334738	2.45e-126	59.7
+# TBLASTN 2.12.0+
+# Query: 75408at147545 75408at147545_3
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+75408at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	74.214	159	18	2	90	225	1334989	1335465	8.99e-101	236
+75408at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	90.385	52	5	0	38	89	1334741	1334896	8.99e-101	105
+75408at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	83.333	36	6	0	1	36	1334631	1334738	8.99e-101	64.7
+# TBLASTN 2.12.0+
+# Query: 75408at147545 75408at147545_4
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+75408at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	71.069	159	23	2	90	225	1334989	1335465	2.29e-120	233
+75408at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	83.871	62	9	1	226	287	1335542	1335724	2.29e-120	113
+75408at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	73.077	52	14	0	38	89	1334741	1334896	2.29e-120	83.2
+75408at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	80.556	36	7	0	1	36	1334631	1334738	2.29e-120	64.3
+# TBLASTN 2.12.0+
+# Query: 75408at147545 75408at147545_5
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+75408at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	60.870	161	39	3	87	225	1334989	1335465	2.55e-110	199
+75408at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	80.645	62	11	1	226	287	1335542	1335724	2.55e-110	107
+75408at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	81.250	48	9	0	39	86	1334753	1334896	2.55e-110	89.4
+75408at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	80.556	36	7	0	1	36	1334631	1334738	2.55e-110	64.3
+# TBLASTN 2.12.0+
+# Query: 75408at147545 75408at147545_6
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+75408at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	72.956	159	21	1	88	224	1334989	1335465	3.11e-131	245
+75408at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	86.885	61	8	0	225	285	1335542	1335724	3.11e-131	119
+75408at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	88.462	52	4	1	38	87	1334741	1334896	3.11e-131	95.1
+75408at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	91.667	36	3	0	1	36	1334631	1334738	3.11e-131	71.6
+# TBLASTN 2.12.0+
+# Query: 75408at147545 75408at147545_7
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+75408at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	62.112	161	37	3	89	227	1334989	1335465	8.67e-110	200
+75408at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	80.645	62	11	1	228	289	1335542	1335724	8.67e-110	107
+75408at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	88.462	52	5	1	38	88	1334741	1334896	8.67e-110	94.7
+75408at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	72.222	36	10	0	1	36	1334631	1334738	8.67e-110	55.5
+# TBLASTN 2.12.0+
+# Query: 75408at147545 75408at147545_8
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+75408at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	63.636	165	36	3	87	229	1334989	1335477	1.79e-108	206
+75408at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	85.417	48	7	0	39	86	1334753	1334896	1.79e-108	92.8
+75408at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	79.630	54	10	1	226	279	1335566	1335724	1.79e-108	91.7
+75408at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	80.556	36	7	0	1	36	1334631	1334738	1.79e-108	63.9
+# TBLASTN 2.12.0+
+# Query: 75408at147545 75408at147545_9
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+75408at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	62.733	161	36	3	89	227	1334989	1335465	4.52e-109	201
+75408at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	80.645	62	11	1	228	289	1335542	1335724	4.52e-109	107
+75408at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	84.615	52	7	1	38	88	1334741	1334896	4.52e-109	93.2
+75408at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	69.444	36	11	0	1	36	1334631	1334738	4.52e-109	53.9
+# TBLASTN 2.12.0+
+# Query: 65712at147545 65712at147545_0
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+65712at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	25.658	152	103	3	73	224	4504022	4503597	1.08e-08	57.8
+65712at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	23.370	184	131	3	259	435	4503411	4502869	2.16e-08	56.6
+# TBLASTN 2.12.0+
+# Query: 65712at147545 65712at147545_1
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+65712at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	23.784	185	95	5	197	375	4504046	4503612	1.04e-04	45.8
+# TBLASTN 2.12.0+
+# Query: 65712at147545 65712at147545_2
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+65712at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	62.105	285	97	2	21	294	4504331	4503477	7.73e-113	367
+65712at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	52.128	188	88	1	284	471	4503426	4502869	1.67e-53	194
+# TBLASTN 2.12.0+
+# Query: 65712at147545 65712at147545_3
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+65712at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	69.373	271	82	1	15	285	4504313	4503504	1.27e-173	392
+65712at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	56.771	192	83	0	284	475	4503426	4502851	1.27e-173	237
+# TBLASTN 2.12.0+
+# Query: 65712at147545 65712at147545_4
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+65712at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	53.455	275	124	2	14	287	4504319	4503504	1.69e-85	294
+65712at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	44.586	157	87	0	324	480	4503309	4502839	7.91e-37	148
+65712at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	86.567	67	9	0	600	666	4502122	4501922	8.57e-28	120
+# TBLASTN 2.12.0+
+# Query: 65712at147545 65712at147545_5
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+65712at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	34.672	274	162	5	17	275	4504319	4503504	1.87e-42	161
+65712at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	27.273	154	108	3	305	456	4503327	4502872	1.08e-13	73.9
+# TBLASTN 2.12.0+
+# Query: 65712at147545 65712at147545_6
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+65712at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	38.095	273	156	5	18	279	4504316	4503504	9.39e-54	195
+65712at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	31.373	153	103	2	311	462	4503327	4502872	5.10e-19	90.9
+# TBLASTN 2.12.0+
+# Query: 65712at147545 65712at147545_7
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+65712at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	28.444	225	125	10	125	342	4504067	4503480	4.69e-11	65.5
+# TBLASTN 2.12.0+
+# Query: 65712at147545 65712at147545_8
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+65712at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	52.027	296	135	3	15	310	4504319	4503453	5.20e-90	301
+65712at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	39.286	196	112	3	291	482	4503426	4502848	3.69e-36	143
+# TBLASTN 2.12.0+
+# Query: 65712at147545 65712at147545_9
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+65712at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	56.940	281	111	4	15	285	4504319	4503477	1.57e-92	306
+65712at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	48.824	170	86	1	275	443	4503426	4502917	2.27e-45	169
+# TBLASTN 2.12.0+
+# Query: 88783at147545 88783at147545_0
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+88783at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	60.345	58	23	0	113	170	618175	618348	5.45e-16	74.3
+88783at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	41.667	84	28	1	43	105	617786	618037	2.22e-11	61.2
+# TBLASTN 2.12.0+
+# Query: 88783at147545 88783at147545_1
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+88783at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	69.643	56	17	0	134	189	618172	618339	1.24e-29	81.3
+88783at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	51.515	66	31	1	181	245	618365	618562	1.24e-29	66.2
+88783at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	68.116	69	22	0	54	122	617813	618019	4.08e-25	103
+# TBLASTN 2.12.0+
+# Query: 88783at147545 88783at147545_2
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+88783at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	69.643	56	17	0	134	189	618172	618339	5.76e-26	82.0
+88783at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	42.424	66	37	1	181	245	618365	618562	5.76e-26	53.1
+88783at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	65.217	69	24	0	54	122	617813	618019	9.66e-24	99.8
+# TBLASTN 2.12.0+
+# Query: 88783at147545 88783at147545_3
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 32 hits found
+88783at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	34.382	477	259	13	313	754	165731	167104	1.84e-63	231
+88783at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	27.179	390	248	9	286	656	637618	638736	1.48e-38	103
+88783at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	42.222	90	48	2	658	744	638799	639065	1.48e-38	76.3
+88783at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	55.046	109	40	5	656	759	2036793	2037107	6.89e-28	95.9
+88783at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	35.556	90	51	3	572	655	2036461	2036727	6.89e-28	47.8
+88783at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	24.848	330	176	12	400	671	2715606	2714659	1.14e-10	65.5
+88783at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	30.392	102	54	3	622	721	1732244	1731984	5.80e-08	52.0
+88783at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	45.000	20	11	0	732	751	1731865	1731806	5.80e-08	23.9
+88783at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	25.795	283	138	13	311	530	2035454	2036275	2.91e-07	54.3
+88783at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	39.404	302	165	7	472	757	1978229	1977330	3.19e-57	188
+88783at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	30.500	200	119	5	271	460	1978890	1978321	3.19e-57	53.9
+88783at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	26.562	192	125	7	572	749	2574320	2573751	1.04e-07	55.8
+88783at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	30.405	148	81	5	608	733	2039642	2040085	2.60e-07	54.3
+88783at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	29.847	459	278	15	227	649	3559560	3560912	2.17e-49	124
+88783at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	41.429	70	41	0	690	759	3561146	3561355	2.17e-49	65.9
+88783at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	69.697	33	10	0	650	682	3560980	3561078	2.17e-49	46.6
+88783at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	77.465	71	16	0	158	228	618365	618577	2.98e-42	117
+88783at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	69.492	59	18	0	108	166	618163	618339	2.98e-42	74.7
+88783at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	62.766	94	14	1	40	112	617729	618010	1.04e-30	116
+88783at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	57.143	28	12	0	1	28	617458	617541	1.04e-30	38.1
+88783at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	90.000	10	1	0	29	38	617607	617636	1.04e-30	18.9
+88783at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	29.008	393	229	12	379	741	220028	221146	2.74e-27	119
+88783at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	31.683	101	66	2	656	755	1801766	1801470	3.31e-12	57.8
+88783at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	36.170	47	28	2	607	652	1801986	1801849	3.31e-12	32.7
+88783at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	29.560	159	95	6	610	754	3062282	3061815	2.27e-09	61.2
+88783at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	30.769	156	88	9	606	744	4713326	4713784	4.56e-08	57.0
+88783at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	30.252	119	74	3	647	758	4707971	4707621	1.66e-04	45.1
+88783at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	30.312	320	198	5	448	745	2227398	2226448	3.69e-22	102
+88783at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	30.612	147	72	7	623	748	1094823	1095236	6.27e-05	46.6
+88783at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	26.214	309	188	8	402	686	3041781	3040903	3.09e-16	83.6
+88783at147545	bctg00000005_pilon_pilon_pilon_pilon_pilon	27.273	143	84	7	611	747	636128	635742	4.63e-05	47.0
+88783at147545	bctg00000005_pilon_pilon_pilon_pilon_pilon	27.941	136	93	4	551	681	53002	52595	2.13e-04	44.7
+# TBLASTN 2.12.0+
+# Query: 88783at147545 88783at147545_4
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+88783at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	77.419	93	1	1	112	184	618063	618341	1.13e-107	143
+88783at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	75.258	97	3	1	40	115	617729	618019	1.13e-107	137
+88783at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	98.438	64	1	0	183	246	618388	618579	1.13e-107	108
+88783at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	96.296	27	1	0	1	27	617458	617538	1.13e-107	54.3
+88783at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	92.308	13	1	0	26	38	617598	617636	1.13e-107	27.3
+# TBLASTN 2.12.0+
+# Query: 88783at147545 88783at147545_5
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+88783at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	69.643	56	17	0	134	189	618172	618339	2.69e-27	82.4
+88783at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	49.020	51	26	0	181	231	618365	618517	2.69e-27	57.4
+88783at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	66.667	69	23	0	54	122	617813	618019	9.21e-24	99.8
+# TBLASTN 2.12.0+
+# Query: 88783at147545 88783at147545_6
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+88783at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	53.226	62	27	1	180	239	618365	618550	8.07e-20	60.5
+88783at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	64.286	56	20	0	133	188	618172	618339	8.07e-20	53.9
+88783at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	75.385	65	16	0	54	118	617816	618010	2.41e-18	83.6
+# TBLASTN 2.12.0+
+# Query: 88783at147545 88783at147545_7
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+88783at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	44.326	282	79	7	40	243	617729	618574	5.60e-56	192
+88783at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	71.429	56	16	0	127	182	618172	618339	1.83e-18	77.0
+88783at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	70.000	20	6	0	112	131	618063	618122	1.83e-18	32.7
+# TBLASTN 2.12.0+
+# Query: 88783at147545 88783at147545_8
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+88783at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	69.565	69	21	0	54	122	617813	618019	1.88e-26	105
+88783at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	66.071	56	19	0	134	189	618172	618339	6.91e-18	81.3
+# TBLASTN 2.12.0+
+# Query: 88783at147545 88783at147545_9
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+88783at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	69.149	94	8	1	44	116	617729	618010	1.20e-76	126
+88783at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	60.000	70	28	0	178	247	618365	618574	1.20e-76	99.0
+88783at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	81.818	55	10	0	132	186	618175	618339	1.20e-76	68.9
+88783at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	75.000	20	5	0	12	31	617479	617538	1.20e-76	37.4
+88783at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	76.471	17	4	0	116	132	618063	618113	1.20e-76	31.2
+88783at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	73.333	15	4	0	28	42	617592	617636	1.20e-76	23.9
+# TBLASTN 2.12.0+
+# Query: 70002at147545 70002at147545_0
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+70002at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	39.937	318	124	6	51	352	405978	405178	8.52e-61	195
+70002at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	48.148	54	28	0	1	54	406183	406022	8.52e-61	57.0
+70002at147545	bctg00000005_pilon_pilon_pilon_pilon_pilon	30.000	200	103	8	14	190	1482578	1482021	2.27e-04	43.1
+# TBLASTN 2.12.0+
+# Query: 70002at147545 70002at147545_1
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+70002at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	31.148	122	53	2	1	91	406183	405818	1.18e-11	62.4
+# TBLASTN 2.12.0+
+# Query: 70002at147545 70002at147545_2
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+70002at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	70.000	270	63	3	51	304	405978	405175	5.04e-122	384
+70002at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	54.386	57	26	0	1	57	406183	406013	3.65e-13	69.7
+70002at147545	bctg00000005_pilon_pilon_pilon_pilon_pilon	28.758	153	82	7	55	184	1482479	1482033	3.96e-05	45.1
+# TBLASTN 2.12.0+
+# Query: 70002at147545 70002at147545_3
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+70002at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	79.775	267	36	3	54	304	405969	405175	6.31e-131	382
+70002at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	87.037	54	7	0	1	54	406183	406022	6.31e-131	103
+# TBLASTN 2.12.0+
+# Query: 70002at147545 70002at147545_4
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+70002at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	77.736	265	43	1	54	302	405969	405175	1.69e-134	400
+70002at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	77.193	57	13	0	1	57	406183	406013	1.69e-134	97.8
+70002at147545	bctg00000005_pilon_pilon_pilon_pilon_pilon	27.919	197	115	8	13	190	1482581	1482015	3.63e-07	51.6
+# TBLASTN 2.12.0+
+# Query: 70002at147545 70002at147545_5
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+70002at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	77.612	268	40	4	54	304	405969	405175	2.76e-133	398
+70002at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	79.630	54	11	0	1	54	406183	406022	2.76e-133	95.9
+70002at147545	bctg00000005_pilon_pilon_pilon_pilon_pilon	26.531	196	115	9	13	188	1482581	1482021	2.08e-04	42.7
+# TBLASTN 2.12.0+
+# Query: 70002at147545 70002at147545_6
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+70002at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	77.323	269	42	4	54	305	405975	405175	1.03e-129	380
+70002at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	85.455	55	8	0	1	55	406183	406019	1.03e-129	102
+# TBLASTN 2.12.0+
+# Query: 70002at147545 70002at147545_7
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+70002at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	75.451	277	55	4	54	329	405969	405175	2.54e-142	427
+70002at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	75.439	57	14	0	1	57	406183	406013	2.54e-142	96.7
+# TBLASTN 2.12.0+
+# Query: 70002at147545 70002at147545_8
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+70002at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	39.441	322	124	6	51	356	405978	405178	1.21e-66	215
+70002at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	49.020	51	26	0	1	51	406183	406031	1.21e-66	57.0
+70002at147545	bctg00000005_pilon_pilon_pilon_pilon_pilon	28.788	198	104	8	14	188	1482578	1482027	1.49e-07	53.1
+# TBLASTN 2.12.0+
+# Query: 70002at147545 70002at147545_9
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+70002at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	53.846	260	87	5	1	244	405903	405175	2.29e-82	268
+# TBLASTN 2.12.0+
+# Query: 14779at147545 14779at147545_0
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 16 hits found
+14779at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	36.154	130	72	4	192	318	2428323	2427958	2.37e-10	64.7
+14779at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	32.787	122	68	4	192	308	1429719	1430057	1.16e-07	55.8
+14779at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	23.427	286	146	10	192	408	2486706	2487551	2.58e-07	54.7
+14779at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	24.345	267	153	10	48	312	2486895	2487554	2.55e-05	48.1
+14779at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	27.895	190	106	7	239	418	2428455	2427949	1.07e-04	46.2
+14779at147545	bctg00000008_pilon_pilon_pilon_pilon_pilon	29.936	157	102	5	157	308	803922	803461	2.45e-07	55.1
+14779at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	25.481	208	143	5	99	306	1758949	1759536	3.21e-05	48.1
+14779at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	21.154	156	118	2	190	345	818687	818235	1.31e-04	45.8
+14779at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	22.778	180	108	6	189	361	853214	853681	3.23e-05	48.1
+14779at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	23.188	276	163	9	39	313	2879904	2880587	6.29e-05	47.0
+14779at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	23.926	163	111	6	151	312	2879886	2880338	6.92e-04	43.5
+14779at147545	bctg00000011_pilon_pilon_pilon_pilon_pilon	30.693	101	69	1	243	342	141614	141916	7.68e-05	46.6
+14779at147545	bctg00000009_pilon_pilon_pilon_pilon_pilon	24.852	169	105	5	203	370	168472	168915	9.26e-05	46.6
+14779at147545	bctg00000009_pilon_pilon_pilon_pilon_pilon	24.549	277	159	7	38	312	168469	169155	1.30e-04	45.8
+14779at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	26.230	122	78	4	191	312	1470922	1470593	1.19e-04	46.2
+14779at147545	bctg00000005_pilon_pilon_pilon_pilon_pilon	25.342	146	94	4	187	323	1925960	1926379	2.08e-04	45.4
+# TBLASTN 2.12.0+
+# Query: 14779at147545 14779at147545_1
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 10 hits found
+14779at147545	bctg00000008_pilon_pilon_pilon_pilon_pilon	27.219	169	104	5	162	317	803922	803434	2.05e-08	58.5
+14779at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	23.837	172	120	3	162	332	2428413	2427928	5.81e-07	53.9
+14779at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	27.049	122	75	4	196	312	1429719	1430057	3.97e-05	47.8
+14779at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	25.833	120	76	3	195	313	853220	853543	8.44e-06	50.1
+14779at147545	bctg00000011_pilon_pilon_pilon_pilon_pilon	31.858	113	67	4	196	306	141608	141922	1.94e-05	48.9
+14779at147545	bctg00000011_pilon_pilon_pilon_pilon_pilon	34.722	72	46	1	247	317	141614	141829	4.72e-05	47.4
+14779at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	25.893	112	76	3	207	316	818648	818328	8.97e-05	46.6
+14779at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	25.581	215	130	10	196	394	887497	886895	1.80e-04	45.4
+14779at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	23.750	160	85	5	162	289	887467	887003	7.11e-04	43.5
+14779at147545	bctg00000009_pilon_pilon_pilon_pilon_pilon	25.434	173	106	6	207	378	168472	168924	2.82e-04	45.1
+# TBLASTN 2.12.0+
+# Query: 14779at147545 14779at147545_2
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 13 hits found
+14779at147545	bctg00000008_pilon_pilon_pilon_pilon_pilon	24.551	167	110	5	153	310	803946	803467	4.97e-08	57.4
+14779at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	23.837	172	120	3	162	332	2428413	2427928	5.64e-08	57.0
+14779at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	29.333	150	82	7	196	332	1429719	1430135	2.05e-06	52.0
+14779at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	23.026	456	242	19	12	406	2486316	2487539	1.24e-05	49.3
+14779at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	25.000	120	77	3	195	313	853220	853543	7.76e-06	50.1
+14779at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	26.901	171	107	6	159	319	3348722	3348234	4.71e-04	44.3
+14779at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	26.368	201	101	9	196	373	887497	886967	1.60e-05	48.9
+14779at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	25.203	123	80	4	194	316	1470925	1470593	4.14e-05	47.8
+14779at147545	bctg00000011_pilon_pilon_pilon_pilon_pilon	34.722	72	46	1	247	317	141614	141829	3.64e-05	47.8
+14779at147545	bctg00000011_pilon_pilon_pilon_pilon_pilon	30.000	100	61	2	208	306	141647	141922	9.42e-05	46.6
+14779at147545	bctg00000009_pilon_pilon_pilon_pilon_pilon	23.810	189	122	6	209	396	168478	168981	2.08e-04	45.4
+14779at147545	bctg00000005_pilon_pilon_pilon_pilon_pilon	27.350	117	75	3	209	323	1926020	1926346	4.12e-04	44.3
+14779at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	24.074	108	79	2	209	316	818642	818328	7.05e-04	43.5
+# TBLASTN 2.12.0+
+# Query: 14779at147545 14779at147545_3
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+14779at147545	bctg00000008_pilon_pilon_pilon_pilon_pilon	25.000	156	109	4	148	297	803940	803479	2.22e-05	48.5
+14779at147545	bctg00000011_pilon_pilon_pilon_pilon_pilon	31.068	103	64	3	196	297	141632	141922	1.02e-04	46.2
+14779at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	26.238	202	105	9	97	285	666338	665826	1.51e-04	45.8
+14779at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	21.818	330	175	9	13	305	2486319	2487170	6.37e-04	43.5
+# TBLASTN 2.12.0+
+# Query: 14779at147545 14779at147545_4
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+14779at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	26.724	116	75	2	183	297	853199	853519	4.93e-07	53.9
+14779at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	25.568	176	108	7	120	286	666311	665826	6.39e-04	43.5
+14779at147545	bctg00000008_pilon_pilon_pilon_pilon_pilon	24.528	159	111	5	145	298	803943	803479	9.75e-07	52.8
+14779at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	25.658	152	98	5	149	297	2428428	2428009	3.18e-04	44.7
+14779at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	20.635	504	288	18	16	509	2486328	2487533	4.56e-04	44.3
+# TBLASTN 2.12.0+
+# Query: 14779at147545 14779at147545_5
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+14779at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	25.391	256	149	9	180	419	2486637	2487326	4.95e-08	57.0
+14779at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	24.739	287	171	11	48	314	2486895	2487680	6.80e-07	53.5
+14779at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	30.894	123	74	3	194	313	2428323	2427979	9.34e-06	49.7
+14779at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	30.435	115	66	4	194	303	1429719	1430036	1.47e-05	48.9
+14779at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	22.878	271	157	9	39	308	2879904	2880563	2.92e-06	51.2
+14779at147545	bctg00000011_pilon_pilon_pilon_pilon_pilon	32.743	113	66	4	194	304	141608	141922	3.90e-05	47.8
+14779at147545	bctg00000011_pilon_pilon_pilon_pilon_pilon	41.270	63	35	2	245	306	141614	141799	5.49e-04	43.9
+# TBLASTN 2.12.0+
+# Query: 14779at147545 14779at147545_6
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 19 hits found
+14779at147545	bctg00000008_pilon_pilon_pilon_pilon_pilon	26.946	167	114	6	174	335	803946	803455	1.04e-08	59.7
+14779at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	24.419	172	119	3	183	353	2428413	2427928	1.13e-08	59.3
+14779at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	22.565	421	240	14	60	474	2486364	2487386	2.70e-07	55.1
+14779at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	23.447	499	280	21	60	526	2486490	2487776	4.30e-07	54.3
+14779at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	28.455	123	74	4	217	334	1429719	1430060	1.18e-06	52.8
+14779at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	25.833	120	76	3	216	334	853220	853543	3.10e-06	51.6
+14779at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	25.153	163	108	5	177	337	2879886	2880338	3.71e-05	47.8
+14779at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	25.217	115	75	4	231	343	961767	962084	2.70e-04	45.1
+14779at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	26.901	171	107	6	180	340	3348722	3348234	5.38e-04	43.9
+14779at147545	bctg00000009_pilon_pilon_pilon_pilon_pilon	25.731	171	104	6	230	399	168478	168924	1.49e-05	49.3
+14779at147545	bctg00000009_pilon_pilon_pilon_pilon_pilon	23.590	195	106	5	180	337	168589	169155	1.34e-04	46.2
+14779at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	29.167	120	69	5	217	334	887497	887180	1.65e-05	48.9
+14779at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	25.316	158	102	6	180	337	1471018	1470593	6.36e-05	47.0
+14779at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	23.494	166	90	5	177	310	887485	887003	1.33e-04	46.2
+14779at147545	bctg00000011_pilon_pilon_pilon_pilon_pilon	31.858	113	67	4	217	327	141608	141922	1.90e-05	48.9
+14779at147545	bctg00000011_pilon_pilon_pilon_pilon_pilon	27.723	101	72	1	268	367	141614	141916	3.40e-05	48.1
+14779at147545	bctg00000005_pilon_pilon_pilon_pilon_pilon	28.125	128	75	4	230	348	1926020	1926379	5.75e-05	47.4
+14779at147545	bctg00000005_pilon_pilon_pilon_pilon_pilon	21.384	159	110	5	177	335	950076	950507	1.31e-04	46.2
+14779at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	24.324	111	77	3	229	337	818645	818328	4.25e-04	44.3
+# TBLASTN 2.12.0+
+# Query: 14779at147545 14779at147545_7
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+14779at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	25.952	289	165	11	99	379	666338	665595	4.10e-06	51.2
+14779at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	28.226	124	75	6	182	304	334514	334846	5.66e-05	47.4
+14779at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	27.273	154	98	5	154	305	2487240	2487665	3.51e-04	44.7
+# TBLASTN 2.12.0+
+# Query: 14779at147545 14779at147545_8
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 11 hits found
+14779at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	22.748	444	246	17	12	448	2486316	2487377	8.80e-10	62.8
+14779at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	28.395	162	101	4	160	318	2428413	2427964	6.50e-07	53.5
+14779at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	27.891	147	92	4	194	335	1429719	1430132	9.87e-06	49.7
+14779at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	23.693	287	174	11	48	314	2486895	2487680	1.00e-05	49.7
+14779at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	28.144	167	94	7	194	355	2428449	2428012	2.40e-04	45.1
+14779at147545	bctg00000009_pilon_pilon_pilon_pilon_pilon	26.937	271	139	13	38	298	168970	169635	6.34e-05	47.0
+14779at147545	bctg00000009_pilon_pilon_pilon_pilon_pilon	24.126	286	166	10	38	300	168469	169242	3.81e-04	44.3
+14779at147545	bctg00000011_pilon_pilon_pilon_pilon_pilon	33.628	113	65	4	194	304	141608	141922	1.06e-04	46.2
+14779at147545	bctg00000011_pilon_pilon_pilon_pilon_pilon	42.857	63	34	2	245	306	141614	141799	4.28e-04	44.3
+14779at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	24.242	132	83	3	191	315	853208	853573	3.75e-04	44.3
+14779at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	26.667	150	88	4	97	229	1471009	1470575	7.60e-04	43.5
+# TBLASTN 2.12.0+
+# Query: 14779at147545 14779at147545_9
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 8 hits found
+14779at147545	bctg00000008_pilon_pilon_pilon_pilon_pilon	24.051	158	105	4	33	181	803922	803467	5.08e-06	50.4
+14779at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	30.667	150	88	6	33	179	2428413	2428003	8.72e-06	49.7
+14779at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	29.032	124	77	4	67	187	2428449	2428102	3.48e-04	44.3
+14779at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	30.894	123	73	5	65	187	1470925	1470593	1.56e-05	48.5
+14779at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	23.077	143	91	4	67	202	853217	853609	2.59e-04	44.7
+14779at147545	bctg00000011_pilon_pilon_pilon_pilon_pilon	32.743	113	66	4	67	177	141608	141922	3.22e-04	44.3
+14779at147545	bctg00000011_pilon_pilon_pilon_pilon_pilon	34.722	72	46	1	118	188	141614	141829	8.29e-04	43.1
+14779at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	25.157	159	84	3	54	181	2039684	2039220	5.78e-04	43.5
+# TBLASTN 2.12.0+
+# Query: 64648at147545 64648at147545_0
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+64648at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	49.797	492	184	7	41	496	815022	813628	3.06e-135	437
+# TBLASTN 2.12.0+
+# Query: 64648at147545 64648at147545_1
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+64648at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	41.272	676	290	18	49	684	815022	813196	3.94e-119	392
+# TBLASTN 2.12.0+
+# Query: 64648at147545 64648at147545_2
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+64648at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	35.852	675	316	18	25	626	815082	813190	1.14e-102	343
+# TBLASTN 2.12.0+
+# Query: 64648at147545 64648at147545_3
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+64648at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	45.807	644	260	17	528	1115	815022	813190	3.82e-151	501
+64648at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	47.273	55	22	2	494	544	815195	815040	2.09e-04	45.4
+# TBLASTN 2.12.0+
+# Query: 64648at147545 64648at147545_4
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+64648at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	34.698	513	259	12	34	523	815025	813646	9.55e-70	250
+# TBLASTN 2.12.0+
+# Query: 64648at147545 64648at147545_5
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+64648at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	43.656	662	280	20	51	671	815022	813193	3.65e-128	419
+# TBLASTN 2.12.0+
+# Query: 64648at147545 64648at147545_6
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+64648at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	29.897	388	234	11	22	392	814746	813646	2.40e-34	138
+# TBLASTN 2.12.0+
+# Query: 64648at147545 64648at147545_7
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+64648at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	40.703	683	306	16	2	653	815034	813190	4.92e-137	444
+# TBLASTN 2.12.0+
+# Query: 64648at147545 64648at147545_8
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+64648at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	43.140	656	275	19	43	647	815022	813196	9.48e-132	428
+# TBLASTN 2.12.0+
+# Query: 64648at147545 64648at147545_9
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+64648at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	44.678	667	251	21	54	659	815022	813193	1.26e-130	425
+# TBLASTN 2.12.0+
+# Query: 103769at147545 103769at147545_0
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+103769at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	60.784	51	20	0	153	203	739097	739249	4.98e-24	67.4
+103769at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	48.936	94	44	2	62	151	738753	739034	4.98e-24	60.8
+# TBLASTN 2.12.0+
+# Query: 103769at147545 103769at147545_1
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+103769at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	63.462	52	19	0	154	205	739097	739252	1.71e-31	71.6
+103769at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	34.559	136	82	4	22	156	738657	739046	1.71e-31	65.1
+103769at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	62.069	29	11	0	1	29	738520	738606	1.71e-31	36.6
+# TBLASTN 2.12.0+
+# Query: 103769at147545 103769at147545_2
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+103769at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	62.651	83	31	0	65	147	738789	739037	5.21e-44	99.0
+103769at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	86.538	52	7	0	148	199	739097	739252	5.21e-44	96.3
+103769at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	71.429	28	8	0	1	28	738520	738603	9.32e-05	42.4
+# TBLASTN 2.12.0+
+# Query: 103769at147545 103769at147545_3
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+103769at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	60.000	80	32	0	68	147	738798	739037	5.10e-43	101
+103769at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	78.846	52	11	0	148	199	739097	739252	5.10e-43	90.1
+103769at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	85.714	28	4	0	1	28	738520	738603	7.60e-08	51.6
+# TBLASTN 2.12.0+
+# Query: 103769at147545 103769at147545_4
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+103769at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	58.400	125	44	3	30	153	738684	739037	9.05e-59	122
+103769at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	80.769	52	10	0	154	205	739097	739252	9.05e-59	92.4
+103769at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	75.000	28	7	0	1	28	738520	738603	9.05e-59	50.8
+# TBLASTN 2.12.0+
+# Query: 103769at147545 103769at147545_5
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+103769at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	82.692	52	9	0	153	204	739097	739252	6.32e-34	91.7
+103769at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	54.472	123	51	1	30	152	738684	739037	6.32e-34	48.1
+103769at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	67.857	28	9	0	1	28	738520	738603	6.32e-34	42.0
+# TBLASTN 2.12.0+
+# Query: 103769at147545 103769at147545_6
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+103769at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	48.101	79	41	0	74	152	738804	739040	2.76e-16	75.1
+103769at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	67.857	28	9	0	1	28	738520	738603	6.69e-05	42.0
+# TBLASTN 2.12.0+
+# Query: 103769at147545 103769at147545_7
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+103769at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	53.846	52	24	0	155	206	739097	739252	4.18e-23	63.2
+103769at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	42.308	104	56	1	61	160	738744	739055	4.18e-23	61.6
+103769at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	64.286	28	10	0	1	28	738520	738603	3.45e-05	43.9
+# TBLASTN 2.12.0+
+# Query: 103769at147545 103769at147545_8
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+103769at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	41.667	48	28	0	145	192	739097	739240	1.08e-04	42.4
+# TBLASTN 2.12.0+
+# Query: 103769at147545 103769at147545_9
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+103769at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	56.667	90	39	0	58	147	738777	739046	1.31e-42	99.4
+103769at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	84.314	51	8	0	146	196	739100	739252	1.31e-42	91.3
+103769at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	64.286	28	10	0	1	28	738520	738603	1.31e-05	44.7
+# TBLASTN 2.12.0+
+# Query: 99732at147545 99732at147545_0
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+99732at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	47.598	229	90	6	1	222	653762	653145	2.14e-54	187
+# TBLASTN 2.12.0+
+# Query: 99732at147545 99732at147545_1
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+99732at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	62.673	217	78	2	1	214	653762	653112	2.22e-85	275
+# TBLASTN 2.12.0+
+# Query: 99732at147545 99732at147545_2
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+99732at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	70.968	217	60	2	1	214	653762	653112	1.21e-96	307
+# TBLASTN 2.12.0+
+# Query: 99732at147545 99732at147545_3
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+99732at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	56.687	501	175	8	211	687	652426	650978	8.08e-100	337
+99732at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	64.211	190	65	2	1	187	653762	653193	2.31e-62	227
+# TBLASTN 2.12.0+
+# Query: 99732at147545 99732at147545_4
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+99732at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	76.959	217	47	2	1	215	653762	653115	1.22e-101	322
+# TBLASTN 2.12.0+
+# Query: 99732at147545 99732at147545_5
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+99732at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	45.540	213	83	5	1	192	653762	653160	3.27e-44	158
+# TBLASTN 2.12.0+
+# Query: 99732at147545 99732at147545_6
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+99732at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	68.586	191	57	2	1	189	653762	653193	1.24e-83	270
+# TBLASTN 2.12.0+
+# Query: 99732at147545 99732at147545_7
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+99732at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	77.419	217	46	2	1	215	653762	653115	2.69e-96	306
+# TBLASTN 2.12.0+
+# Query: 99732at147545 99732at147545_8
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+99732at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	72.308	195	50	3	1	193	653762	653184	1.29e-93	298
+# TBLASTN 2.12.0+
+# Query: 99732at147545 99732at147545_9
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+99732at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	68.817	186	56	1	1	184	653762	653205	1.04e-66	221
+# TBLASTN 2.12.0+
+# Query: 42313at147545 42313at147545_0
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+42313at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	33.226	310	151	12	188	459	796425	797300	1.42e-24	107
+42313at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	58.065	31	13	0	11	41	795417	795509	1.26e-05	47.8
+# TBLASTN 2.12.0+
+# Query: 42313at147545 42313at147545_1
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+42313at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	66.912	136	45	0	213	348	796386	796793	5.03e-60	186
+42313at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	82.857	35	6	0	184	218	796232	796336	5.03e-60	63.9
+42313at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	53.409	88	41	0	46	133	795577	795840	1.06e-32	99.8
+42313at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	77.143	35	8	0	11	45	795417	795521	1.06e-32	58.9
+42313at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	48.980	49	25	0	123	171	795924	796070	5.25e-09	57.8
+# TBLASTN 2.12.0+
+# Query: 42313at147545 42313at147545_2
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+42313at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	27.134	328	134	10	228	486	796425	797300	5.36e-21	97.1
+42313at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	61.290	31	12	0	14	44	795417	795509	2.58e-06	50.1
+# TBLASTN 2.12.0+
+# Query: 42313at147545 42313at147545_3
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+42313at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	52.778	36	17	0	11	46	795417	795524	5.87e-04	42.0
+42313at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	70.000	10	3	0	1	10	795313	795342	5.87e-04	19.2
+# TBLASTN 2.12.0+
+# Query: 42313at147545 42313at147545_4
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+42313at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	27.097	310	166	8	214	469	796395	797306	1.69e-27	110
+42313at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	46.875	32	17	0	183	214	796232	796327	1.69e-27	31.6
+42313at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	43.182	88	49	1	46	132	795577	795840	1.36e-15	66.6
+42313at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	60.000	25	10	0	20	44	795444	795518	1.36e-15	34.7
+42313at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	41.667	60	30	1	117	171	795894	796073	2.96e-07	53.1
+# TBLASTN 2.12.0+
+# Query: 42313at147545 42313at147545_5
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 8 hits found
+42313at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	70.073	137	40	1	213	348	796386	796796	1.57e-65	202
+42313at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	62.500	64	24	0	347	410	796895	797086	1.57e-65	65.9
+42313at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	50.459	109	52	2	46	154	795577	795897	2.23e-34	103
+42313at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	71.429	35	10	0	11	45	795417	795521	2.23e-34	55.1
+42313at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	100.000	10	0	0	1	10	795313	795342	2.23e-34	26.6
+42313at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	69.697	66	20	0	400	465	797109	797306	4.96e-22	99.8
+42313at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	49.153	59	25	1	118	171	795894	796070	1.16e-10	63.9
+42313at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	65.217	46	13	1	184	229	796232	796360	2.09e-10	63.2
+# TBLASTN 2.12.0+
+# Query: 42313at147545 42313at147545_6
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+42313at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	59.375	32	13	0	11	42	795417	795512	5.51e-05	46.2
+# TBLASTN 2.12.0+
+# Query: 42313at147545 42313at147545_7
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+42313at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	30.942	223	118	6	211	413	796608	797228	7.17e-17	83.6
+42313at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	40.299	67	20	2	14	68	795417	795593	1.96e-05	45.4
+42313at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	46.154	13	7	0	1	13	795304	795342	1.96e-05	20.8
+# TBLASTN 2.12.0+
+# Query: 42313at147545 42313at147545_8
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+42313at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	91.549	284	5	1	133	397	795945	796796	0.0	531
+42313at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	97.701	87	2	0	46	132	795577	795837	0.0	171
+42313at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	98.438	64	1	0	451	514	797115	797306	0.0	134
+42313at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	87.500	64	8	0	396	459	796895	797086	0.0	120
+42313at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	100.000	26	0	0	20	45	795444	795521	0.0	56.2
+# TBLASTN 2.12.0+
+# Query: 42313at147545 42313at147545_9
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 8 hits found
+42313at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	58.394	137	57	0	213	349	796386	796796	7.82e-77	171
+42313at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	58.209	67	27	1	401	467	797109	797306	7.82e-77	79.3
+42313at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	62.500	56	21	0	348	403	796895	797062	7.82e-77	77.4
+42313at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	44.578	83	46	0	51	133	795592	795840	2.53e-25	82.8
+42313at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	74.074	27	7	0	11	37	795417	795497	2.53e-25	47.8
+42313at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	90.000	10	1	0	1	10	795313	795342	2.53e-25	23.5
+42313at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	53.704	54	11	1	184	237	796232	796351	8.75e-09	58.2
+42313at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	65.625	32	11	0	140	171	795975	796070	1.26e-08	57.4
+# TBLASTN 2.12.0+
+# Query: 77675at147545 77675at147545_0
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+77675at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	72.028	286	74	3	36	320	2891707	2892549	6.32e-131	411
+77675at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	46.047	215	88	4	38	250	356573	357139	3.02e-55	193
+77675at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	30.244	205	100	4	90	268	2650607	2650044	1.16e-25	98.6
+77675at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	54.545	33	15	0	26	58	2650816	2650718	1.16e-25	36.2
+# TBLASTN 2.12.0+
+# Query: 77675at147545 77675at147545_1
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+77675at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	75.172	290	60	4	36	324	2891707	2892543	1.09e-130	410
+77675at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	44.144	222	89	4	38	257	356573	357139	2.05e-53	188
+77675at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	32.447	188	84	4	97	258	2650607	2650095	4.76e-25	99.8
+77675at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	50.000	32	16	0	27	58	2650813	2650718	4.76e-25	33.1
+# TBLASTN 2.12.0+
+# Query: 77675at147545 77675at147545_2
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+77675at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	56.757	296	103	8	36	324	2891707	2892540	3.05e-93	303
+77675at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	36.301	292	122	7	39	310	356576	357319	5.24e-49	176
+77675at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	29.614	233	101	6	95	301	2650619	2650032	3.04e-19	89.0
+# TBLASTN 2.12.0+
+# Query: 77675at147545 77675at147545_3
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+77675at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	66.667	303	73	6	36	338	2891707	2892531	4.90e-115	366
+77675at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	45.217	230	83	4	38	265	356573	357139	1.74e-54	192
+77675at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	30.769	208	95	5	102	280	2650607	2650044	2.86e-20	92.0
+# TBLASTN 2.12.0+
+# Query: 77675at147545 77675at147545_4
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+77675at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	61.304	230	82	2	157	386	2891863	2892531	2.00e-78	263
+77675at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	80.488	41	8	0	36	76	2891707	2891829	1.74e-13	72.4
+77675at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	46.061	165	68	2	159	321	356690	357127	4.20e-43	160
+77675at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	32.911	158	72	2	176	321	2650517	2650110	2.38e-20	93.2
+# TBLASTN 2.12.0+
+# Query: 77675at147545 77675at147545_5
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+77675at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	74.825	286	66	3	36	320	2891707	2892549	1.19e-131	413
+77675at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	43.836	219	91	3	38	254	356573	357139	7.98e-53	186
+77675at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	32.447	188	84	4	94	255	2650607	2650095	4.02e-24	96.3
+77675at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	50.000	32	16	0	27	58	2650813	2650718	4.02e-24	33.1
+# TBLASTN 2.12.0+
+# Query: 77675at147545 77675at147545_6
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+77675at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	68.641	287	80	3	36	321	2891707	2892540	2.39e-117	372
+77675at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	44.843	223	91	3	38	258	356573	357151	9.42e-53	186
+77675at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	31.351	185	84	4	94	252	2650607	2650104	1.83e-20	90.9
+77675at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	60.000	20	8	0	36	55	2650786	2650727	1.83e-20	26.2
+# TBLASTN 2.12.0+
+# Query: 77675at147545 77675at147545_7
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+77675at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	57.491	287	95	6	36	315	2891707	2892507	4.33e-96	311
+77675at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	39.914	233	93	5	39	269	356576	357139	1.42e-49	177
+77675at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	28.497	193	85	4	99	265	2650607	2650110	5.93e-21	80.1
+77675at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	60.606	33	13	0	26	58	2650816	2650718	5.93e-21	38.5
+# TBLASTN 2.12.0+
+# Query: 77675at147545 77675at147545_8
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+77675at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	64.865	222	63	2	137	346	2891863	2892519	1.27e-79	265
+77675at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	80.488	41	8	0	36	76	2891707	2891829	1.32e-13	72.0
+77675at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	48.765	162	64	2	140	299	356693	357127	3.09e-44	163
+77675at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	32.796	186	79	5	140	299	2650607	2650110	3.61e-21	95.1
+# TBLASTN 2.12.0+
+# Query: 77675at147545 77675at147545_9
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+77675at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	69.831	295	69	2	36	330	2891707	2892531	1.18e-132	416
+77675at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	43.220	236	85	4	38	271	356573	357139	2.35e-52	185
+77675at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	32.632	190	83	4	109	272	2650607	2650095	6.92e-23	99.8
+# TBLASTN 2.12.0+
+# Query: 90018at147545 90018at147545_0
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+90018at147545	bctg00000006_pilon_pilon_pilon_pilon_pilon	39.362	282	142	5	139	398	839446	840270	1.58e-68	196
+90018at147545	bctg00000006_pilon_pilon_pilon_pilon_pilon	34.247	146	61	3	28	138	838956	839393	1.58e-68	82.4
+# TBLASTN 2.12.0+
+# Query: 90018at147545 90018at147545_1
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+90018at147545	bctg00000006_pilon_pilon_pilon_pilon_pilon	22.222	279	173	7	153	402	839473	840264	2.33e-14	48.9
+90018at147545	bctg00000006_pilon_pilon_pilon_pilon_pilon	27.619	105	69	3	44	141	839079	839393	2.33e-14	48.1
+# TBLASTN 2.12.0+
+# Query: 90018at147545 90018at147545_2
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+90018at147545	bctg00000006_pilon_pilon_pilon_pilon_pilon	42.857	287	119	6	109	362	839446	840270	2.99e-48	174
+90018at147545	bctg00000006_pilon_pilon_pilon_pilon_pilon	35.766	137	65	4	6	137	839085	839441	1.79e-19	90.1
+# TBLASTN 2.12.0+
+# Query: 90018at147545 90018at147545_3
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# 0 hits found
+# TBLASTN 2.12.0+
+# Query: 90018at147545 90018at147545_4
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+90018at147545	bctg00000006_pilon_pilon_pilon_pilon_pilon	41.404	285	136	6	135	393	839434	840273	7.33e-42	157
+90018at147545	bctg00000006_pilon_pilon_pilon_pilon_pilon	30.081	123	77	3	54	167	839073	839441	2.44e-08	56.2
+# TBLASTN 2.12.0+
+# Query: 90018at147545 90018at147545_5
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# 0 hits found
+# TBLASTN 2.12.0+
+# Query: 90018at147545 90018at147545_6
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# 0 hits found
+# TBLASTN 2.12.0+
+# Query: 90018at147545 90018at147545_7
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+90018at147545	bctg00000006_pilon_pilon_pilon_pilon_pilon	40.893	291	125	5	144	401	839446	840276	6.92e-67	207
+90018at147545	bctg00000006_pilon_pilon_pilon_pilon_pilon	33.962	106	65	2	42	143	839079	839393	6.92e-67	66.2
+# TBLASTN 2.12.0+
+# Query: 90018at147545 90018at147545_8
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+90018at147545	bctg00000006_pilon_pilon_pilon_pilon_pilon	43.310	284	128	8	144	401	839446	840276	1.50e-69	208
+90018at147545	bctg00000006_pilon_pilon_pilon_pilon_pilon	34.454	119	73	2	29	143	839040	839393	1.50e-69	73.9
+# TBLASTN 2.12.0+
+# Query: 90018at147545 90018at147545_9
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+90018at147545	bctg00000006_pilon_pilon_pilon_pilon_pilon	90.722	194	0	1	147	322	839695	840276	3.20e-102	328
+90018at147545	bctg00000006_pilon_pilon_pilon_pilon_pilon	81.111	180	6	1	1	152	838872	839411	2.10e-78	260
+# TBLASTN 2.12.0+
+# Query: 119084at147545 119084at147545_0
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+119084at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	80.247	81	16	0	1	81	1718548	1718306	1.18e-39	137
+# TBLASTN 2.12.0+
+# Query: 119084at147545 119084at147545_1
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+119084at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	74.074	81	21	0	1	81	1718548	1718306	3.15e-38	134
+# TBLASTN 2.12.0+
+# Query: 119084at147545 119084at147545_2
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+119084at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	81.707	82	15	0	1	82	1718548	1718303	3.71e-41	142
+# TBLASTN 2.12.0+
+# Query: 119084at147545 119084at147545_3
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+119084at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	76.147	109	14	2	1	104	1718608	1718303	9.22e-48	162
+# TBLASTN 2.12.0+
+# Query: 119084at147545 119084at147545_4
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+119084at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	78.750	80	17	0	1	80	1718548	1718309	3.28e-40	139
+# TBLASTN 2.12.0+
+# Query: 119084at147545 119084at147545_5
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+119084at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	75.000	80	20	0	1	80	1718548	1718309	5.48e-39	136
+# TBLASTN 2.12.0+
+# Query: 119084at147545 119084at147545_6
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+119084at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	90.244	82	8	0	1	82	1718548	1718303	3.41e-47	159
+# TBLASTN 2.12.0+
+# Query: 119084at147545 119084at147545_7
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+119084at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	81.356	59	11	0	1	59	1718548	1718372	1.36e-30	112
+# TBLASTN 2.12.0+
+# Query: 119084at147545 119084at147545_8
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+119084at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	85.542	83	12	0	1	83	1718548	1718300	2.40e-46	157
+# TBLASTN 2.12.0+
+# Query: 119084at147545 119084at147545_9
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+119084at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	80.723	83	16	0	1	83	1718548	1718300	2.30e-41	144
+# TBLASTN 2.12.0+
+# Query: 112902at147545 112902at147545_0
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+112902at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	61.739	115	22	1	66	158	2427020	2427364	2.91e-39	137
+112902at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	35.354	99	26	3	5	65	2426656	2426952	2.91e-39	42.0
+# TBLASTN 2.12.0+
+# Query: 112902at147545 112902at147545_1
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+112902at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	65.217	115	18	1	57	149	2427020	2427364	8.73e-36	130
+# TBLASTN 2.12.0+
+# Query: 112902at147545 112902at147545_2
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+112902at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	63.063	111	19	1	64	152	2427020	2427352	1.88e-37	120
+112902at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	40.196	102	20	3	1	63	2426653	2426952	1.88e-37	52.4
+# TBLASTN 2.12.0+
+# Query: 112902at147545 112902at147545_3
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+112902at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	70.229	131	17	1	69	177	2427020	2427412	3.68e-56	162
+112902at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	44.231	104	18	3	1	68	2426653	2426952	3.68e-56	72.8
+# TBLASTN 2.12.0+
+# Query: 112902at147545 112902at147545_4
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+112902at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	65.766	111	16	1	69	157	2427020	2427352	1.50e-50	149
+112902at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	42.574	101	24	2	1	68	2426653	2426952	1.50e-50	67.8
+# TBLASTN 2.12.0+
+# Query: 112902at147545 112902at147545_5
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+112902at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	62.609	115	21	1	69	161	2427020	2427364	1.76e-50	141
+112902at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	49.505	101	17	2	1	68	2426653	2426952	1.76e-50	75.5
+# TBLASTN 2.12.0+
+# Query: 112902at147545 112902at147545_6
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+112902at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	69.643	112	12	1	75	164	2427020	2427355	1.92e-50	152
+112902at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	42.202	109	19	4	1	74	2426653	2426952	1.92e-50	63.5
+# TBLASTN 2.12.0+
+# Query: 112902at147545 112902at147545_7
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+112902at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	73.913	115	19	2	72	175	2427020	2427364	1.40e-57	165
+112902at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	47.115	104	18	2	1	71	2426653	2426952	1.40e-57	75.1
+# TBLASTN 2.12.0+
+# Query: 112902at147545 112902at147545_8
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+112902at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	64.865	111	17	1	67	155	2427020	2427352	1.19e-31	119
+112902at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	62.500	56	20	1	1	55	2426653	2426820	6.20e-12	62.8
+# TBLASTN 2.12.0+
+# Query: 112902at147545 112902at147545_9
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+112902at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	69.466	131	18	1	84	192	2427020	2427412	1.72e-57	163
+112902at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	53.922	102	26	5	1	83	2426653	2426952	1.72e-57	77.0
+# TBLASTN 2.12.0+
+# Query: 110166at147545 110166at147545_0
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+110166at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	54.938	162	61	5	37	190	2698235	2697762	5.98e-36	125
+110166at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	76.190	21	5	0	190	210	2697678	2697616	5.98e-36	43.1
+# TBLASTN 2.12.0+
+# Query: 110166at147545 110166at147545_1
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+110166at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	52.201	159	57	4	27	167	2698235	2697762	8.36e-41	146
+# TBLASTN 2.12.0+
+# Query: 110166at147545 110166at147545_2
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+110166at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	45.312	192	69	7	35	224	2698235	2697762	5.72e-35	132
+# TBLASTN 2.12.0+
+# Query: 110166at147545 110166at147545_3
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+110166at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	47.120	191	73	5	24	186	2698238	2697666	4.14e-41	147
+# TBLASTN 2.12.0+
+# Query: 110166at147545 110166at147545_4
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+110166at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	44.444	162	80	4	31	186	2698235	2697762	1.69e-39	136
+110166at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	80.952	21	4	0	186	206	2697678	2697616	1.69e-39	43.5
+# TBLASTN 2.12.0+
+# Query: 110166at147545 110166at147545_5
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+110166at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	46.154	221	81	6	1	183	2698328	2697666	2.54e-42	150
+# TBLASTN 2.12.0+
+# Query: 110166at147545 110166at147545_6
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+110166at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	37.288	177	98	4	44	210	2698283	2697762	3.72e-23	97.4
+# TBLASTN 2.12.0+
+# Query: 110166at147545 110166at147545_7
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# 0 hits found
+# TBLASTN 2.12.0+
+# Query: 110166at147545 110166at147545_8
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+110166at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	45.455	209	87	6	1	202	2698328	2697762	4.06e-38	140
+# TBLASTN 2.12.0+
+# Query: 110166at147545 110166at147545_9
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+110166at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	36.170	188	84	6	40	221	2698235	2697762	6.56e-24	92.4
+110166at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	68.182	22	7	0	219	240	2697684	2697619	6.56e-24	35.4
+# TBLASTN 2.12.0+
+# Query: 105892at147545 105892at147545_0
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+105892at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	37.500	56	33	1	224	277	2948259	2948092	1.05e-05	46.6
+# TBLASTN 2.12.0+
+# Query: 105892at147545 105892at147545_1
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# 0 hits found
+# TBLASTN 2.12.0+
+# Query: 105892at147545 105892at147545_2
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+105892at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	39.209	278	140	5	32	288	2949121	2948312	3.35e-44	152
+105892at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	40.678	59	34	1	285	343	2948262	2948089	3.35e-44	45.1
+# TBLASTN 2.12.0+
+# Query: 105892at147545 105892at147545_3
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+105892at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	42.662	293	142	5	30	301	2949079	2948216	2.82e-55	193
+105892at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	50.847	59	26	1	263	321	2948259	2948092	1.48e-11	65.5
+# TBLASTN 2.12.0+
+# Query: 105892at147545 105892at147545_4
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+105892at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	50.929	269	109	3	101	349	2949079	2948282	3.17e-57	202
+105892at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	45.763	59	28	1	336	394	2948256	2948092	1.93e-06	50.1
+# TBLASTN 2.12.0+
+# Query: 105892at147545 105892at147545_5
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+105892at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	45.833	264	121	3	42	284	2949100	2948312	4.35e-57	178
+105892at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	50.000	54	27	0	285	338	2948250	2948089	4.35e-57	62.0
+# TBLASTN 2.12.0+
+# Query: 105892at147545 105892at147545_6
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+105892at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	40.418	287	139	6	22	282	2949100	2948258	3.68e-44	161
+105892at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	50.000	58	27	1	267	324	2948259	2948092	1.87e-11	65.1
+# TBLASTN 2.12.0+
+# Query: 105892at147545 105892at147545_7
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+105892at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	35.000	60	36	1	41	97	2948866	2948687	1.03e-05	46.2
+# TBLASTN 2.12.0+
+# Query: 105892at147545 105892at147545_8
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+105892at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	47.955	269	115	5	42	289	2949085	2948291	3.77e-67	208
+105892at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	51.852	54	25	1	281	334	2948250	2948092	3.77e-67	65.1
+# TBLASTN 2.12.0+
+# Query: 105892at147545 105892at147545_9
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+105892at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	49.206	63	32	0	66	128	2948875	2948687	1.24e-14	71.2
+# TBLASTN 2.12.0+
+# Query: 114368at147545 114368at147545_0
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+114368at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	46.667	105	56	0	11	115	2551737	2552051	1.31e-39	111
+114368at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	50.847	59	29	0	115	173	2552125	2552301	1.31e-39	68.9
+# TBLASTN 2.12.0+
+# Query: 114368at147545 114368at147545_1
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+114368at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	59.048	105	42	1	11	114	2551737	2552051	1.01e-27	105
+# TBLASTN 2.12.0+
+# Query: 114368at147545 114368at147545_2
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+114368at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	65.714	105	35	1	11	114	2551737	2552051	5.24e-56	140
+114368at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	67.797	59	18	1	114	172	2552125	2552298	5.24e-56	84.3
+114368at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	86.667	15	2	0	1	15	2551660	2551704	5.24e-56	30.8
+# TBLASTN 2.12.0+
+# Query: 114368at147545 114368at147545_3
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+114368at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	61.000	100	38	1	16	114	2551752	2552051	2.27e-38	106
+114368at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	43.548	62	35	0	124	185	2552125	2552310	2.27e-38	65.1
+114368at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	71.429	14	4	0	1	14	2551660	2551701	2.27e-38	24.6
+# TBLASTN 2.12.0+
+# Query: 114368at147545 114368at147545_4
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+114368at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	54.118	85	39	0	1	85	2551797	2552051	7.34e-36	99.0
+114368at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	55.172	58	20	1	85	136	2552125	2552298	7.34e-36	68.2
+# TBLASTN 2.12.0+
+# Query: 114368at147545 114368at147545_5
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+114368at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	63.810	105	38	0	11	115	2551737	2552051	1.04e-53	145
+114368at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	54.839	62	28	0	115	176	2552125	2552310	1.04e-53	74.3
+114368at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	73.333	15	4	0	1	15	2551660	2551704	1.04e-53	28.5
+# TBLASTN 2.12.0+
+# Query: 114368at147545 114368at147545_6
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+114368at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	67.105	76	25	0	16	91	2551752	2551979	1.10e-28	110
+114368at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	40.984	61	35	1	105	165	2552128	2552307	1.37e-09	55.8
+# TBLASTN 2.12.0+
+# Query: 114368at147545 114368at147545_7
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+114368at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	60.000	100	39	1	57	155	2551752	2552051	5.62e-33	100
+114368at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	41.935	62	35	1	155	215	2552125	2552310	5.62e-33	54.3
+114368at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	58.824	17	7	0	39	55	2551651	2551701	5.62e-33	23.9
+# TBLASTN 2.12.0+
+# Query: 114368at147545 114368at147545_8
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+114368at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	68.831	77	24	0	93	169	2551752	2551982	2.92e-22	94.7
+114368at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	46.154	52	27	1	181	231	2552125	2552280	8.77e-07	49.3
+# TBLASTN 2.12.0+
+# Query: 114368at147545 114368at147545_9
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+114368at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	96.774	124	4	0	11	134	2551737	2552108	2.54e-77	248
+# TBLASTN 2.12.0+
+# Query: 69023at147545 69023at147545_0
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+69023at147545	bctg00000005_pilon_pilon_pilon_pilon_pilon	33.333	270	139	9	21	270	1416723	1415977	1.99e-22	95.1
+69023at147545	bctg00000005_pilon_pilon_pilon_pilon_pilon	38.983	59	29	2	271	326	1415915	1415751	1.99e-22	29.3
+# TBLASTN 2.12.0+
+# Query: 69023at147545 69023at147545_1
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+69023at147545	bctg00000005_pilon_pilon_pilon_pilon_pilon	33.448	290	153	7	1	273	1416777	1415977	5.79e-24	92.0
+69023at147545	bctg00000005_pilon_pilon_pilon_pilon_pilon	41.071	56	29	2	274	326	1415915	1415751	5.79e-24	37.4
+# TBLASTN 2.12.0+
+# Query: 69023at147545 69023at147545_2
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+69023at147545	bctg00000005_pilon_pilon_pilon_pilon_pilon	36.458	288	152	9	1	278	1416777	1415977	7.66e-30	110
+69023at147545	bctg00000005_pilon_pilon_pilon_pilon_pilon	30.909	165	101	6	279	434	1415915	1415433	7.66e-30	39.3
+# TBLASTN 2.12.0+
+# Query: 69023at147545 69023at147545_3
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+69023at147545	bctg00000005_pilon_pilon_pilon_pilon_pilon	38.916	203	95	6	21	202	1416723	1416139	5.79e-16	80.9
+69023at147545	bctg00000005_pilon_pilon_pilon_pilon_pilon	49.153	59	27	2	238	295	1415915	1415745	1.49e-05	47.4
+# TBLASTN 2.12.0+
+# Query: 69023at147545 69023at147545_4
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+69023at147545	bctg00000005_pilon_pilon_pilon_pilon_pilon	53.600	250	102	7	20	255	1416726	1415977	7.53e-94	198
+69023at147545	bctg00000005_pilon_pilon_pilon_pilon_pilon	56.784	199	81	4	256	453	1415915	1415331	7.53e-94	165
+# TBLASTN 2.12.0+
+# Query: 69023at147545 69023at147545_5
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+69023at147545	bctg00000005_pilon_pilon_pilon_pilon_pilon	52.985	268	99	9	1	242	1416777	1415977	3.21e-101	225
+69023at147545	bctg00000005_pilon_pilon_pilon_pilon_pilon	61.111	198	74	3	243	439	1415915	1415328	3.21e-101	162
+# TBLASTN 2.12.0+
+# Query: 69023at147545 69023at147545_6
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+69023at147545	bctg00000005_pilon_pilon_pilon_pilon_pilon	58.566	251	101	2	17	265	1416726	1415977	3.59e-108	236
+69023at147545	bctg00000005_pilon_pilon_pilon_pilon_pilon	61.170	188	70	3	266	453	1415915	1415361	3.59e-108	175
+# TBLASTN 2.12.0+
+# Query: 69023at147545 69023at147545_7
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+69023at147545	bctg00000005_pilon_pilon_pilon_pilon_pilon	39.706	136	74	2	1	136	1416360	1415977	3.75e-21	72.4
+69023at147545	bctg00000005_pilon_pilon_pilon_pilon_pilon	39.759	83	43	3	137	214	1415915	1415673	3.75e-21	47.0
+# TBLASTN 2.12.0+
+# Query: 69023at147545 69023at147545_8
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+69023at147545	bctg00000005_pilon_pilon_pilon_pilon_pilon	48.400	250	126	2	20	266	1416726	1415977	1.96e-82	204
+69023at147545	bctg00000005_pilon_pilon_pilon_pilon_pilon	51.244	201	77	6	267	455	1415915	1415340	1.96e-82	121
+# TBLASTN 2.12.0+
+# Query: 69023at147545 69023at147545_9
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+69023at147545	bctg00000005_pilon_pilon_pilon_pilon_pilon	41.135	141	75	2	138	278	1416375	1415977	7.74e-30	85.9
+69023at147545	bctg00000005_pilon_pilon_pilon_pilon_pilon	55.172	58	22	1	279	332	1415915	1415742	7.74e-30	63.5
+69023at147545	bctg00000005_pilon_pilon_pilon_pilon_pilon	59.524	42	15	1	1	42	1416777	1416658	3.27e-05	46.6
+# TBLASTN 2.12.0+
+# Query: 89028at147545 89028at147545_0
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+89028at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	40.594	101	53	3	13	108	2960040	2959744	3.56e-12	69.3
+# TBLASTN 2.12.0+
+# Query: 89028at147545 89028at147545_1
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+89028at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	48.837	43	22	0	503	545	2958777	2958649	7.82e-05	45.8
+89028at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	31.667	120	61	5	254	366	2959542	2959225	9.42e-05	45.4
+89028at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	37.097	62	36	1	34	92	2959995	2959810	8.24e-04	42.4
+# TBLASTN 2.12.0+
+# Query: 89028at147545 89028at147545_2
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+89028at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	54.985	331	124	7	154	462	2959551	2958568	9.17e-101	330
+89028at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	48.077	104	48	3	1	101	2960061	2959759	4.66e-18	87.4
+# TBLASTN 2.12.0+
+# Query: 89028at147545 89028at147545_3
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+89028at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	46.926	488	226	11	19	487	2959989	2958568	1.24e-106	348
+# TBLASTN 2.12.0+
+# Query: 89028at147545 89028at147545_4
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+89028at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	34.118	340	181	11	183	496	2959536	2958568	5.29e-36	142
+# TBLASTN 2.12.0+
+# Query: 89028at147545 89028at147545_5
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+89028at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	35.312	337	178	11	179	492	2959527	2958568	9.86e-37	145
+# TBLASTN 2.12.0+
+# Query: 89028at147545 89028at147545_6
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+89028at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	32.479	117	63	3	258	370	2959539	2959225	9.97e-08	55.5
+# TBLASTN 2.12.0+
+# Query: 89028at147545 89028at147545_7
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+89028at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	35.577	104	66	1	13	116	2960031	2959723	1.69e-09	60.5
+# TBLASTN 2.12.0+
+# Query: 89028at147545 89028at147545_8
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+89028at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	55.255	333	120	8	156	464	2959551	2958568	2.89e-97	320
+89028at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	46.000	100	47	2	1	95	2960061	2959768	3.40e-17	84.7
+# TBLASTN 2.12.0+
+# Query: 89028at147545 89028at147545_9
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+89028at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	31.346	520	297	15	6	493	2960043	2958568	2.78e-43	164
+# TBLASTN 2.12.0+
+# Query: 101552at147545 101552at147545_0
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+101552at147545	bctg00000005_pilon_pilon_pilon_pilon_pilon	64.244	344	117	5	1	342	881662	880643	5.54e-70	236
+# TBLASTN 2.12.0+
+# Query: 101552at147545 101552at147545_1
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+101552at147545	bctg00000005_pilon_pilon_pilon_pilon_pilon	46.809	94	50	0	65	158	881470	881189	3.53e-14	73.9
+101552at147545	bctg00000005_pilon_pilon_pilon_pilon_pilon	82.857	35	6	0	315	349	880747	880643	1.58e-12	68.6
+# TBLASTN 2.12.0+
+# Query: 101552at147545 101552at147545_2
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+101552at147545	bctg00000005_pilon_pilon_pilon_pilon_pilon	55.873	315	129	5	28	338	881569	880643	3.11e-57	200
+# TBLASTN 2.12.0+
+# Query: 101552at147545 101552at147545_3
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+101552at147545	bctg00000005_pilon_pilon_pilon_pilon_pilon	43.750	96	50	1	64	155	881473	881186	1.09e-10	62.8
+101552at147545	bctg00000005_pilon_pilon_pilon_pilon_pilon	95.652	23	1	0	308	330	880711	880643	4.50e-08	54.7
+# TBLASTN 2.12.0+
+# Query: 101552at147545 101552at147545_4
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+101552at147545	bctg00000005_pilon_pilon_pilon_pilon_pilon	52.703	296	119	6	1	279	881518	880643	5.77e-49	173
+# TBLASTN 2.12.0+
+# Query: 101552at147545 101552at147545_5
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+101552at147545	bctg00000005_pilon_pilon_pilon_pilon_pilon	52.903	310	118	7	6	291	881560	880643	1.80e-50	178
+# TBLASTN 2.12.0+
+# Query: 101552at147545 101552at147545_6
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+101552at147545	bctg00000005_pilon_pilon_pilon_pilon_pilon	52.688	279	118	6	78	348	881461	880643	5.01e-37	141
+# TBLASTN 2.12.0+
+# Query: 101552at147545 101552at147545_7
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+101552at147545	bctg00000005_pilon_pilon_pilon_pilon_pilon	51.360	331	142	5	13	325	881632	880643	5.57e-56	196
+# TBLASTN 2.12.0+
+# Query: 101552at147545 101552at147545_8
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+101552at147545	bctg00000005_pilon_pilon_pilon_pilon_pilon	50.000	264	108	8	1	250	881404	880643	6.27e-30	117
+# TBLASTN 2.12.0+
+# Query: 101552at147545 101552at147545_9
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+101552at147545	bctg00000005_pilon_pilon_pilon_pilon_pilon	63.006	346	120	6	1	344	881662	880643	4.90e-48	173
+# TBLASTN 2.12.0+
+# Query: 102682at147545 102682at147545_0
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+102682at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	68.310	142	45	0	71	212	2160175	2160600	9.72e-70	224
+102682at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	61.404	57	21	1	1	57	2159969	2160136	9.72e-70	57.0
+# TBLASTN 2.12.0+
+# Query: 102682at147545 102682at147545_1
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+102682at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	58.333	24	10	0	1	24	2159969	2160040	2.20e-05	37.7
+# TBLASTN 2.12.0+
+# Query: 102682at147545 102682at147545_2
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+102682at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	73.381	139	37	0	70	208	2160175	2160591	1.03e-67	220
+102682at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	64.286	56	20	0	1	56	2159969	2160136	1.03e-67	54.7
+102682at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	41.509	53	31	0	145	197	3117469	3117311	1.72e-04	42.0
+# TBLASTN 2.12.0+
+# Query: 102682at147545 102682at147545_3
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+102682at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	71.329	143	41	0	72	214	2160175	2160603	5.80e-73	227
+102682at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	64.815	54	19	0	5	58	2159975	2160136	5.80e-73	64.7
+102682at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	28.696	115	68	2	79	193	2636367	2636669	2.07e-05	44.7
+102682at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	42.105	57	32	1	148	203	3117466	3117296	2.48e-05	44.3
+# TBLASTN 2.12.0+
+# Query: 102682at147545 102682at147545_4
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+102682at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	58.156	141	59	0	6	146	2160175	2160597	9.47e-43	150
+# TBLASTN 2.12.0+
+# Query: 102682at147545 102682at147545_5
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+102682at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	65.248	141	49	0	68	208	2160175	2160597	7.58e-63	207
+102682at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	50.909	55	23	1	4	54	2159972	2160136	7.58e-63	51.2
+# TBLASTN 2.12.0+
+# Query: 102682at147545 102682at147545_6
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+102682at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	62.319	138	52	0	65	202	2160178	2160591	4.19e-55	188
+102682at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	32.143	140	77	5	71	210	2636367	2636732	4.15e-10	58.5
+# TBLASTN 2.12.0+
+# Query: 102682at147545 102682at147545_7
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+102682at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	61.429	140	54	0	66	205	2160178	2160597	1.80e-55	182
+102682at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	51.923	52	19	1	7	52	2159984	2160139	1.80e-55	51.2
+102682at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	29.412	136	73	3	72	207	2636367	2636705	4.71e-09	55.5
+102682at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	29.245	106	64	4	78	176	1777891	1778196	4.34e-04	40.4
+# TBLASTN 2.12.0+
+# Query: 102682at147545 102682at147545_8
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+102682at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	70.833	120	35	0	71	190	2160175	2160534	1.23e-55	190
+102682at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	70.833	24	7	0	1	24	2159969	2160040	5.64e-04	40.4
+102682at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	26.786	112	68	2	78	189	2636367	2636660	5.10e-04	40.4
+# TBLASTN 2.12.0+
+# Query: 102682at147545 102682at147545_9
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+102682at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	100.000	143	0	0	70	212	2160175	2160603	1.30e-86	258
+102682at147545	bctg00000002_pilon_pilon_pilon_pilon_pilon	100.000	52	0	0	1	52	2159969	2160124	1.30e-86	79.7
+# TBLASTN 2.12.0+
+# Query: 73893at147545 73893at147545_0
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+73893at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	46.250	400	205	3	198	596	2732870	2731698	2.30e-108	359
+73893at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	53.333	45	20	1	154	198	2733231	2733100	1.44e-05	48.1
+73893at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	43.396	53	27	1	100	152	2733630	2733481	7.51e-04	42.7
+# TBLASTN 2.12.0+
+# Query: 73893at147545 73893at147545_1
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+73893at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	62.025	395	148	1	271	665	2732882	2731704	3.49e-160	485
+73893at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	37.805	164	69	3	141	271	2733421	2732930	3.49e-160	99.8
+73893at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	29.317	249	96	8	20	224	2733756	2733118	3.88e-17	86.3
+# TBLASTN 2.12.0+
+# Query: 73893at147545 73893at147545_2
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+73893at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	62.532	395	146	1	270	664	2732882	2731704	3.60e-157	474
+73893at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	38.415	164	68	3	140	270	2733421	2732930	3.60e-157	100
+73893at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	31.288	163	62	6	104	223	2733585	2733118	1.22e-12	71.6
+# TBLASTN 2.12.0+
+# Query: 73893at147545 73893at147545_3
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+73893at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	58.163	392	164	0	271	662	2732879	2731704	9.47e-155	469
+73893at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	40.491	163	63	6	141	269	2733421	2732933	9.47e-155	97.4
+73893at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	27.203	261	111	10	8	224	2733795	2733118	8.75e-11	65.5
+# TBLASTN 2.12.0+
+# Query: 73893at147545 73893at147545_4
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+73893at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	62.690	394	145	1	271	664	2732882	2731707	8.54e-158	476
+73893at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	37.805	164	69	3	141	271	2733421	2732930	8.54e-158	101
+73893at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	28.226	248	100	8	20	224	2733756	2733118	1.72e-13	74.3
+# TBLASTN 2.12.0+
+# Query: 73893at147545 73893at147545_5
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+73893at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	58.881	411	154	2	243	653	2732891	2731704	1.43e-158	465
+73893at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	42.771	166	52	3	117	244	2733418	2732936	1.43e-158	111
+73893at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	34.615	26	17	0	653	678	2731641	2731564	1.43e-158	25.0
+73893at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	37.788	217	79	7	28	199	2733735	2733118	1.44e-26	116
+# TBLASTN 2.12.0+
+# Query: 73893at147545 73893at147545_6
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+73893at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	24.895	237	143	10	343	563	2732492	2731839	1.52e-09	61.2
+# TBLASTN 2.12.0+
+# Query: 73893at147545 73893at147545_7
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+73893at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	54.198	393	180	0	239	631	2732882	2731704	7.71e-139	419
+73893at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	38.415	164	67	4	110	239	2733421	2732930	7.71e-139	94.7
+73893at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	28.037	214	98	9	25	193	2733726	2733118	1.88e-09	61.2
+# TBLASTN 2.12.0+
+# Query: 73893at147545 73893at147545_8
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+73893at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	50.620	403	189	2	281	683	2732882	2731704	4.34e-113	376
+73893at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	65.217	46	15	1	152	196	2733421	2733284	1.42e-10	64.7
+73893at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	25.967	181	80	6	98	234	2733630	2733118	8.21e-05	46.2
+# TBLASTN 2.12.0+
+# Query: 73893at147545 73893at147545_9
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+73893at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	60.606	396	153	2	272	667	2732882	2731704	3.73e-160	451
+73893at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	37.654	162	68	3	144	272	2733415	2732930	3.73e-160	99.4
+73893at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	30.645	124	57	1	20	143	2733756	2733472	3.73e-160	56.2
+73893at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	65.000	40	13	1	186	225	2733234	2733118	1.59e-06	51.6
+# TBLASTN 2.12.0+
+# Query: 116790at147545 116790at147545_0
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+116790at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	64.583	96	26	3	14	103	1512328	1512609	1.57e-29	88.2
+116790at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	90.323	31	3	0	113	143	1512630	1512722	1.57e-29	57.8
+116790at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	88.462	26	3	0	1	26	1512242	1512319	7.47e-09	52.8
+# TBLASTN 2.12.0+
+# Query: 116790at147545 116790at147545_1
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+116790at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	68.333	60	19	0	42	101	1512430	1512609	1.82e-27	84.3
+116790at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	96.000	25	1	0	1	25	1512242	1512316	1.82e-27	53.5
+# TBLASTN 2.12.0+
+# Query: 116790at147545 116790at147545_2
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+116790at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	62.687	67	19	2	14	74	1512328	1512528	9.56e-17	75.9
+116790at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	90.000	30	3	0	121	150	1512633	1512722	7.52e-10	55.8
+116790at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	88.462	26	3	0	1	26	1512242	1512319	1.75e-08	52.0
+# TBLASTN 2.12.0+
+# Query: 116790at147545 116790at147545_3
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+116790at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	61.739	115	38	2	14	122	1512328	1512672	3.72e-33	122
+116790at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	93.548	31	2	0	109	139	1512630	1512722	8.13e-11	58.2
+116790at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	88.462	26	3	0	1	26	1512242	1512319	9.22e-09	52.4
+# TBLASTN 2.12.0+
+# Query: 116790at147545 116790at147545_4
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+116790at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	75.758	33	8	0	42	74	1512430	1512528	3.63e-16	51.2
+116790at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	84.615	26	4	0	1	26	1512242	1512319	3.63e-16	49.3
+116790at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	87.097	31	4	0	123	153	1512630	1512722	2.69e-10	57.4
+# TBLASTN 2.12.0+
+# Query: 116790at147545 116790at147545_5
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+116790at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	63.235	68	19	2	14	75	1512328	1512531	6.89e-27	78.6
+116790at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	90.323	31	3	0	115	145	1512630	1512722	6.89e-27	58.2
+116790at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	88.462	26	3	0	1	26	1512242	1512319	2.55e-09	54.3
+# TBLASTN 2.12.0+
+# Query: 116790at147545 116790at147545_6
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+116790at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	70.968	31	9	0	100	130	1512630	1512722	3.82e-10	50.4
+116790at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	37.255	51	27	2	48	93	1512448	1512600	3.82e-10	29.3
+# TBLASTN 2.12.0+
+# Query: 116790at147545 116790at147545_7
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+116790at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	93.548	31	2	0	122	152	1512630	1512722	4.25e-11	59.7
+116790at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	56.604	53	17	2	14	60	1512328	1512486	7.57e-09	53.1
+116790at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	84.615	26	4	0	1	26	1512242	1512319	1.13e-07	49.7
+# TBLASTN 2.12.0+
+# Query: 116790at147545 116790at147545_8
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+116790at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	72.000	25	7	0	1	25	1512242	1512316	1.02e-04	40.4
+116790at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	40.741	81	38	3	14	84	1512328	1512570	3.85e-04	35.8
+116790at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	58.065	31	12	1	100	129	1512630	1512722	3.85e-04	22.7
+# TBLASTN 2.12.0+
+# Query: 116790at147545 116790at147545_9
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+116790at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	74.194	31	8	0	103	133	1512630	1512722	8.01e-11	51.6
+116790at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	38.298	47	24	2	52	93	1512460	1512600	8.01e-11	30.0
+116790at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	76.923	26	6	0	1	26	1512242	1512319	1.89e-07	48.5
+# TBLASTN 2.12.0+
+# Query: 118410at147545 118410at147545_0
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+118410at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	53.030	132	28	3	1	100	1319013	1318624	8.24e-35	126
+118410at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	64.000	50	18	0	80	129	1318583	1318434	7.06e-07	46.6
+# TBLASTN 2.12.0+
+# Query: 118410at147545 118410at147545_1
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+118410at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	61.682	107	18	1	1	84	1319007	1318687	2.51e-43	135
+118410at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	80.000	50	10	0	78	127	1318583	1318434	2.51e-43	56.2
+# TBLASTN 2.12.0+
+# Query: 118410at147545 118410at147545_2
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+118410at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	59.016	122	24	2	1	99	1319010	1318654	1.79e-36	131
+118410at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	80.952	42	8	0	79	120	1318583	1318458	2.12e-13	65.1
+# TBLASTN 2.12.0+
+# Query: 118410at147545 118410at147545_3
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+118410at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	61.475	122	21	2	1	99	1319010	1318654	9.79e-39	137
+118410at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	76.596	47	8	1	74	120	1318589	1318458	4.71e-06	44.3
+# TBLASTN 2.12.0+
+# Query: 118410at147545 118410at147545_4
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+118410at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	54.331	127	28	2	4	100	1319004	1318624	1.26e-22	91.7
+118410at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	68.000	50	16	0	80	129	1318583	1318434	8.63e-08	49.3
+# TBLASTN 2.12.0+
+# Query: 118410at147545 118410at147545_5
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+118410at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	60.748	107	19	1	1	84	1319007	1318687	5.35e-42	127
+118410at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	84.000	50	8	0	78	127	1318583	1318434	5.35e-42	59.7
+# TBLASTN 2.12.0+
+# Query: 118410at147545 118410at147545_6
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+118410at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	63.115	122	19	2	1	99	1319010	1318654	5.01e-41	144
+118410at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	83.333	42	7	0	79	120	1318583	1318458	4.71e-06	44.3
+# TBLASTN 2.12.0+
+# Query: 118410at147545 118410at147545_7
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+118410at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	66.667	123	15	2	5	104	1319013	1318654	1.12e-43	152
+118410at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	90.000	50	5	0	84	133	1318583	1318434	5.05e-13	64.3
+# TBLASTN 2.12.0+
+# Query: 118410at147545 118410at147545_8
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+118410at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	57.364	129	25	2	1	99	1319010	1318624	3.18e-27	104
+118410at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	70.213	47	14	0	82	128	1318574	1318434	4.11e-07	47.4
+# TBLASTN 2.12.0+
+# Query: 118410at147545 118410at147545_9
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+118410at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	55.814	129	32	3	1	104	1319010	1318624	2.87e-23	93.6
+118410at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	66.000	50	17	0	84	133	1318583	1318434	1.30e-15	71.6
+# TBLASTN 2.12.0+
+# Query: 109398at147545 109398at147545_0
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+109398at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	81.609	87	16	0	1	87	671344	671084	6.45e-96	157
+109398at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	60.241	166	59	3	160	322	670807	670322	6.45e-96	144
+109398at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	83.333	72	12	0	88	159	671022	670807	6.45e-96	89.7
+# TBLASTN 2.12.0+
+# Query: 109398at147545 109398at147545_1
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+109398at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	47.826	69	36	0	165	233	670807	670601	1.57e-24	80.1
+109398at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	59.524	42	17	0	122	163	670935	670810	1.57e-24	50.8
+109398at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	52.941	85	36	1	1	81	671344	671090	2.46e-22	97.4
+# TBLASTN 2.12.0+
+# Query: 109398at147545 109398at147545_2
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+109398at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	49.462	93	43	1	1	89	671344	671066	8.11e-22	95.9
+109398at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	40.260	77	46	0	164	240	670807	670577	3.45e-20	70.9
+109398at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	75.000	28	7	0	136	163	670890	670807	3.45e-20	45.1
+# TBLASTN 2.12.0+
+# Query: 109398at147545 109398at147545_3
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+109398at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	49.315	73	31	1	165	237	670807	670607	2.67e-24	78.6
+109398at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	61.905	42	16	0	122	163	670935	670810	2.67e-24	51.6
+109398at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	52.326	86	37	1	1	82	671344	671087	2.05e-23	100
+# TBLASTN 2.12.0+
+# Query: 109398at147545 109398at147545_4
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+109398at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	59.302	86	35	0	1	86	671344	671087	3.96e-26	109
+109398at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	36.170	188	90	4	159	342	670810	670325	2.29e-23	97.1
+109398at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	81.250	16	3	0	143	158	670857	670810	2.29e-23	30.0
+# TBLASTN 2.12.0+
+# Query: 109398at147545 109398at147545_5
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+109398at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	80.460	87	17	0	1	87	671344	671084	1.41e-69	153
+109398at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	70.833	48	14	0	160	207	670807	670664	1.41e-69	82.4
+109398at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	79.167	72	15	0	88	159	671022	670807	1.41e-69	67.0
+# TBLASTN 2.12.0+
+# Query: 109398at147545 109398at147545_6
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+109398at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	74.713	87	22	0	1	87	671344	671084	2.50e-38	145
+109398at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	52.174	69	32	1	161	229	670807	670604	3.37e-26	81.3
+109398at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	74.286	35	9	0	126	160	670911	670807	3.37e-26	55.5
+109398at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	64.516	31	8	1	315	342	670414	670322	6.70e-04	41.6
+# TBLASTN 2.12.0+
+# Query: 109398at147545 109398at147545_7
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+109398at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	79.070	86	18	0	1	86	671344	671087	6.13e-80	158
+109398at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	48.045	179	65	4	160	327	670807	670322	6.13e-80	128
+109398at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	75.000	72	18	0	88	159	671022	670807	6.13e-80	50.8
+# TBLASTN 2.12.0+
+# Query: 109398at147545 109398at147545_8
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+109398at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	87.356	87	11	0	1	87	671344	671084	5.83e-90	165
+109398at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	53.125	160	65	3	166	319	670789	670322	5.83e-90	133
+109398at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	81.538	65	12	0	87	151	671025	670831	5.83e-90	72.4
+# TBLASTN 2.12.0+
+# Query: 109398at147545 109398at147545_9
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+109398at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	45.161	93	48	1	1	90	671344	671066	9.35e-15	75.1
+109398at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	50.000	78	39	0	158	235	670807	670574	1.00e-14	63.2
+109398at147545	bctg00000004_pilon_pilon_pilon_pilon_pilon	71.429	21	6	0	136	156	670872	670810	1.00e-14	34.7
+# TBLASTN 2.12.0+
+# Query: 120912at147545 120912at147545_0
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+120912at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	33.929	56	15	1	25	58	2190276	2190109	0.001	37.0
+# TBLASTN 2.12.0+
+# Query: 120912at147545 120912at147545_1
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# 0 hits found
+# TBLASTN 2.12.0+
+# Query: 120912at147545 120912at147545_2
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# 0 hits found
+# TBLASTN 2.12.0+
+# Query: 120912at147545 120912at147545_3
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+120912at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	68.421	38	12	0	56	93	2189980	2189867	9.13e-11	56.6
+120912at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	33.333	81	27	2	20	73	2190276	2190034	6.45e-05	39.7
+# TBLASTN 2.12.0+
+# Query: 120912at147545 120912at147545_4
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+120912at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	51.351	37	18	0	61	97	2189980	2189870	2.39e-05	41.2
+# TBLASTN 2.12.0+
+# Query: 120912at147545 120912at147545_5
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# 0 hits found
+# TBLASTN 2.12.0+
+# Query: 120912at147545 120912at147545_6
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# 0 hits found
+# TBLASTN 2.12.0+
+# Query: 120912at147545 120912at147545_7
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+120912at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	69.333	75	1	1	1	53	2190327	2190103	6.95e-25	96.7
+120912at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	97.674	43	1	0	53	95	2189977	2189849	4.39e-22	88.6
+# TBLASTN 2.12.0+
+# Query: 120912at147545 120912at147545_8
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+120912at147545	bctg00000000_pilon_pilon_pilon_pilon_pilon	67.647	34	11	0	56	89	2189980	2189879	3.22e-08	48.9
+# TBLASTN 2.12.0+
+# Query: 120912at147545 120912at147545_9
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# 0 hits found
+# TBLASTN 2.12.0+
+# Query: 106026at147545 106026at147545_0
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# 0 hits found
+# TBLASTN 2.12.0+
+# Query: 106026at147545 106026at147545_1
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+106026at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	51.667	60	9	1	64	103	2006766	2006945	8.73e-09	56.2
+106026at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	50.000	44	21	1	225	268	2007366	2007494	5.42e-04	41.2
+# TBLASTN 2.12.0+
+# Query: 106026at147545 106026at147545_2
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# 0 hits found
+# TBLASTN 2.12.0+
+# Query: 106026at147545 106026at147545_3
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# 0 hits found
+# TBLASTN 2.12.0+
+# Query: 106026at147545 106026at147545_4
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+106026at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	50.000	60	10	1	42	81	2006766	2006945	1.42e-08	55.1
+106026at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	50.000	52	23	1	211	259	2007387	2007542	2.25e-06	48.5
+# TBLASTN 2.12.0+
+# Query: 106026at147545 106026at147545_5
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+106026at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	54.815	135	36	3	31	140	2006769	2007173	1.09e-16	78.6
+# TBLASTN 2.12.0+
+# Query: 106026at147545 106026at147545_6
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+106026at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	51.667	60	9	1	67	106	2006766	2006945	1.05e-08	55.8
+106026at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	52.273	44	20	1	228	271	2007366	2007494	1.39e-04	43.1
+# TBLASTN 2.12.0+
+# Query: 106026at147545 106026at147545_7
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# 0 hits found
+# TBLASTN 2.12.0+
+# Query: 106026at147545 106026at147545_8
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+106026at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	38.158	76	37	2	287	362	2007387	2007584	7.48e-05	44.7
+# TBLASTN 2.12.0+
+# Query: 106026at147545 106026at147545_9
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+106026at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	91.697	277	3	1	69	325	2006766	2007596	8.00e-127	399
+106026at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	59.848	132	21	3	1	105	2006503	2006883	1.87e-22	98.2
+# TBLASTN 2.12.0+
+# Query: 122459at147545 122459at147545_0
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+122459at147545	bctg00000009_pilon_pilon_pilon_pilon_pilon	64.815	54	19	0	126	179	556361	556522	5.10e-07	48.9
+# TBLASTN 2.12.0+
+# Query: 122459at147545 122459at147545_1
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+122459at147545	bctg00000009_pilon_pilon_pilon_pilon_pilon	62.963	54	20	0	62	115	556361	556522	2.84e-12	45.1
+122459at147545	bctg00000009_pilon_pilon_pilon_pilon_pilon	81.579	38	7	0	30	67	556167	556280	2.84e-12	41.2
+# TBLASTN 2.12.0+
+# Query: 122459at147545 122459at147545_2
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+122459at147545	bctg00000009_pilon_pilon_pilon_pilon_pilon	62.500	56	21	0	100	155	556361	556528	1.54e-15	72.4
+# TBLASTN 2.12.0+
+# Query: 122459at147545 122459at147545_3
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+122459at147545	bctg00000009_pilon_pilon_pilon_pilon_pilon	60.714	56	22	0	62	117	556361	556528	2.69e-07	47.4
+122459at147545	bctg00000009_pilon_pilon_pilon_pilon_pilon	55.814	43	1	1	2	26	555896	556024	4.43e-04	38.1
+# TBLASTN 2.12.0+
+# Query: 122459at147545 122459at147545_4
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+122459at147545	bctg00000009_pilon_pilon_pilon_pilon_pilon	65.385	26	9	0	85	110	556430	556507	5.80e-04	37.7
+# TBLASTN 2.12.0+
+# Query: 122459at147545 122459at147545_5
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+122459at147545	bctg00000009_pilon_pilon_pilon_pilon_pilon	58.182	55	23	0	43	97	556364	556528	2.15e-13	63.9
+# TBLASTN 2.12.0+
+# Query: 122459at147545 122459at147545_6
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# 0 hits found
+# TBLASTN 2.12.0+
+# Query: 122459at147545 122459at147545_7
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+122459at147545	bctg00000009_pilon_pilon_pilon_pilon_pilon	71.698	53	15	0	63	115	556364	556522	1.07e-07	48.5
+122459at147545	bctg00000009_pilon_pilon_pilon_pilon_pilon	55.814	43	1	1	2	26	555896	556024	4.09e-04	38.1
+# TBLASTN 2.12.0+
+# Query: 122459at147545 122459at147545_8
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+122459at147545	bctg00000009_pilon_pilon_pilon_pilon_pilon	58.491	53	22	0	63	115	556364	556522	1.39e-04	39.7
+# TBLASTN 2.12.0+
+# Query: 122459at147545 122459at147545_9
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+122459at147545	bctg00000009_pilon_pilon_pilon_pilon_pilon	60.377	53	21	0	59	111	556364	556522	7.82e-14	65.9
+# TBLASTN 2.12.0+
+# Query: 38961at147545 38961at147545_0
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+38961at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	39.516	248	109	4	375	622	2178178	2177558	1.24e-86	166
+38961at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	42.326	215	106	8	148	355	2178905	2178294	1.24e-86	133
+38961at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	46.269	67	33	2	75	139	2179194	2178997	1.24e-86	62.4
+# TBLASTN 2.12.0+
+# Query: 38961at147545 38961at147545_1
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+38961at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	44.053	227	108	4	363	589	2178181	2177558	4.43e-83	177
+38961at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	35.455	220	114	6	139	346	2178905	2178294	4.43e-83	92.0
+38961at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	40.678	118	64	3	14	129	2179341	2179000	4.43e-83	79.7
+# TBLASTN 2.12.0+
+# Query: 38961at147545 38961at147545_2
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+38961at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	49.167	120	60	1	525	644	2177914	2177558	1.19e-28	123
+38961at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	36.404	228	133	4	144	366	2178905	2178243	4.48e-28	121
+38961at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	57.576	66	26	1	410	475	2178043	2177852	7.95e-14	75.5
+38961at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	48.485	66	32	1	56	119	2179239	2179042	5.50e-12	69.3
+# TBLASTN 2.12.0+
+# Query: 38961at147545 38961at147545_3
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+38961at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	41.704	223	111	4	366	588	2178181	2177570	4.58e-76	167
+38961at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	35.242	227	133	4	142	363	2178905	2178252	4.58e-76	103
+38961at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	39.496	119	56	3	25	129	2179359	2179009	4.58e-76	55.1
+# TBLASTN 2.12.0+
+# Query: 38961at147545 38961at147545_4
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+38961at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	46.903	226	102	3	846	1071	2178181	2177558	5.14e-54	207
+38961at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	40.385	208	107	5	618	817	2178908	2178312	3.49e-33	140
+38961at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	41.304	92	49	2	503	592	2179314	2179048	1.59e-12	72.4
+38961at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	39.465	299	126	5	11	294	3359105	3359881	8.75e-47	184
+38961at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	41.600	125	64	3	400	522	3360071	3360424	6.51e-18	90.1
+38961at147545	bctg00000001_pilon_pilon_pilon_pilon_pilon	66.667	30	10	0	1	30	3359067	3359156	2.85e-07	55.1
+# TBLASTN 2.12.0+
+# Query: 38961at147545 38961at147545_5
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+38961at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	44.601	213	108	3	309	517	2178178	2177558	1.55e-69	176
+38961at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	31.839	223	123	8	84	293	2178896	2178276	1.55e-69	85.5
+38961at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	41.509	53	29	1	21	71	2179158	2179000	1.55e-69	41.6
+# TBLASTN 2.12.0+
+# Query: 38961at147545 38961at147545_6
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+38961at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	55.985	259	114	0	341	599	2178184	2177408	1.41e-140	306
+38961at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	50.450	222	105	2	121	339	2178908	2178249	1.41e-140	213
+38961at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	57.843	102	41	1	1	100	2179341	2179036	1.16e-25	112
+# TBLASTN 2.12.0+
+# Query: 38961at147545 38961at147545_7
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+38961at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	48.364	275	128	4	369	643	2178187	2177405	5.85e-113	264
+38961at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	44.749	219	118	1	152	367	2178908	2178252	5.85e-113	163
+38961at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	52.727	110	48	2	26	133	2179353	2179030	3.27e-27	118
+# TBLASTN 2.12.0+
+# Query: 38961at147545 38961at147545_8
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+38961at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	64.259	263	94	0	339	601	2178193	2177405	5.36e-180	376
+38961at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	61.364	220	85	0	121	340	2178908	2178249	5.36e-180	274
+38961at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	70.192	104	29	1	1	102	2179341	2179030	1.81e-39	155
+# TBLASTN 2.12.0+
+# Query: 38961at147545 38961at147545_9
+# Database: /bigdata/stajichlab/shared/projects/Afumigatus_RefStrains/BUSCO/CEA10.necat.pilon/blast_db/CEA10.necat.pilon.fasta
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+38961at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	45.755	212	96	3	254	456	2178166	2177561	3.09e-50	185
+38961at147545	bctg00000003_pilon_pilon_pilon_pilon_pilon	38.384	198	112	6	22	212	2178905	2178321	9.92e-25	108
+# BLAST processed 320 queries

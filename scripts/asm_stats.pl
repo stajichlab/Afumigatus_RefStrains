@@ -17,6 +17,7 @@ my %header_seen;
 
 opendir(DIR,$dir) || die $!;
 my $first = 1;
+my $firstreads = 1;
 foreach my $file ( readdir(DIR) ) {
     next unless ( $file =~ /(\S+)(\.fasta)?\.stats.txt$/);
     my $stem = $1;
@@ -143,20 +144,23 @@ foreach my $file ( readdir(DIR) ) {
 		} elsif( $read_dir && /^mapped:\s+(\S+)\s+(\d+)\s+(\S+)\s+(\d+)/) {
 		    $base_count += $4;
 		    $stats{$stem}->{'Mapped_reads'} += $2;
-		}  elsif( /^Reads:\s+(\S+)/) {
-		    $stats{$stem}->{'Reads'} = $1;
+		}  elsif( /^Reads(\s+Used)?:\s+(\S+)/) {
+		    $stats{$stem}->{'Reads'} = $2;
 		}
-		
 	    }
 	    $stats{$stem}->{'Average_Coverage'} =
-		sprintf("%.1f",$base_count / $stats{$stem}->{'TOTAL LENGTH'});
-	    if( $first )  {
+		sprintf("%.1f",$base_count / $stats{$stem}->{'TOTAL_LENGTH'});
+	    if( $firstreads )  {
 		push @header, ('Reads',
 			       'Mapped_reads',			   
 			       'Average_Coverage');
+		$firstreads = 0;
 	    }
+	} else {
+		warn("no $sumstatfile\n") if $stem =~ /pilon/;
 	}
-    }
+    } 
+    
     
     $first = 0;
 }

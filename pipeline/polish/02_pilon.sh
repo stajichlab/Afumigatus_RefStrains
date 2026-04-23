@@ -1,5 +1,5 @@
 #!/usr/bin/bash -l
-#SBATCH -p intel -N 1 -n 24 --mem 96gb --out logs/pilon.%a.log --array 1-12
+#SBATCH -N 1 -c 24 -n 1 --mem 96gb --out logs/pilon.%a.log --array 1-16
 
 module load AAFTF
 MEM=96
@@ -25,15 +25,16 @@ fi
 mkdir -p $OUTDIR
 sed -n ${N}p $SAMPLES | while read STRAIN NANOPORE ILLUMINA LOCUS
 do
-    for type in canu flye
+    for type in flye canu
     do
-	POLISHED=$INDIR/$STRAIN/$type.polished.fasta
+	POLISHED=$INDIR/$STRAIN/$type.polished.fasta/consensus.fasta
 	mkdir -p $OUTDIR/$STRAIN
 	PILON=$OUTDIR/$STRAIN/$type.pilon.fasta
 	if [[ ! -f $PILON || $POLISHED -nt $PILON ]]; then
 	    LEFT=$(ls $READDIR/$ILLUMINA | sed -n 1p)
 	    RIGHT=$(ls $READDIR/$ILLUMINA | sed -n 2p)
-	    AAFTF pilon -l $LEFT -r $RIGHT -it 5 -v -i $POLISHED -o $PILON -c $CPU --memory $MEM
+	    echo AAFTF polish -l $LEFT -r $RIGHT -it 5 -v -i $POLISHED -o $PILON -c $CPU --memory $MEM --method polca
+	    AAFTF polish -l $LEFT -r $RIGHT -it 5 -v -i $POLISHED -o $PILON -c $CPU --memory $MEM --method polca
 	fi
     done
 done

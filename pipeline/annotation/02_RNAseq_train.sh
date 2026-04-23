@@ -1,9 +1,8 @@
 #!/bin/bash -l
-#SBATCH -p intel --time 6-0:00:00 --ntasks 24 --nodes 1 --mem 96G --out logs/annotate_train.%a.log
+#SBATCH --time 6-0:00:00 -c 24 -n 1 --nodes 1 --mem 96G --out logs/annotate_train.%a.log
 
-module unload miniconda3
 module load funannotate
-
+hostname
 MEM=96G
 CPU=1
 if [ $SLURM_CPUS_ON_NODE ]; then
@@ -30,26 +29,46 @@ if [ $N -gt $MAX ]; then
 fi
 
 export PASAHOME=$HOME/.pasa
-echo $PASAHOME
+export PASACONF=$HOME/pasa.config.txt
+echo $PASAHOME $PASACONF
 IFS=,
 SPECIES="Aspergillus fumigatus"
 sed -n ${N}p $SAMPLES | while read STRAIN NANOPORE ILLUMINA LOCUS
 do
     name=$BASE
+    # only run on pilon now
+    #POLISHED=medaka
+
+    POLISHED=pilon
     # previous we were running flye and canu
     for type in canu
     do
-  	   name=$STRAIN.$type
-	     MASKED=$INDIR/${name}.pilon.masked.fasta
-	     echo "in is $MASKED ($INDIR/${name}.pilon.masked.fasta)"
-	     if [ ! -f $MASKED ]; then
-		       echo "no masked file $MASKED"
-		       exit
-	     fi
-	     funannotate train -i $MASKED -o $ODIR/${name} \
-   	   --jaccard_clip --species "$SPECIES" --isolate $STRAIN \
-  	   --cpus $CPU --memory ${MEM} \
-  	   --single $RNAFOLDER/$STRAIN.fastq.gz \
-  	   --pasa_db mysql
+        name=$STRAIN.$type
+        MASKED=$INDIR/${name}.$POLISHED.masked.fasta
+        echo "File in is $MASKED ($INDIR/${name}.$POLISHED.masked.fasta)"
+        if [ ! -f $MASKED ]; then
+            echo "no masked file $MASKED"
+            exit
+        fi
+        if [ ! -f $RNAFOLDER/$STRAIN.fastq.gz ] && [ ! -f $RNAFOLDER/${STRAIN}_R1.fastq.gz ]; then
+            echo "no RNA file $RNAFOLDER/$STRAIN.fastq.gz or $RNAFOLDER/${STRAIN}_R1.fastq.gz"
+            exit
+        fi
+        # we could also do one more check for R2 files and run as single end if not found
+        if [ -f $RNAFOLDER/${STRAIN}_R1.fastq.gz ]; then
+            echo "paired end data detected for $STRAIN"
+            funannotate train -i $MASKED -o $ODIR/${name}.$POLISHED \
+                --jaccard_clip --species "$SPECIES" --isolate $STRAIN \
+                --cpus $CPU --memory ${MEM} \
+                --left $RNAFOLDER/${STRAIN}_R1.fastq.gz --right $RNAFOLDER/${STRAIN}_R2.fastq.gz \
+                --pasa_db mysql
+        else 
+            echo "single end data detected for $STRAIN"                    
+            funannotate train -i $MASKED -o $ODIR/${name}.$POLISHED \
+                --jaccard_clip --species "$SPECIES" --isolate $STRAIN \
+                --cpus $CPU --memory ${MEM} \
+                --single $RNAFOLDER/$STRAIN.fastq.gz \
+                --pasa_db mysql
+        fi        
     done
 done
